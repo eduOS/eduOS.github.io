@@ -1,0 +1,20 @@
+---
+layout: post
+title: Alongside the main text what else are also important?
+tags: post, github
+---
+
+Of the answer, Christopher Su's pyquora can certainly fetch the so called statistics of one answer by inputing its short url, including the count of views, people who also want the answer, upvotes and comment. But what's the value of those statistics to my purpose which wants to harness Quora to facilitate the process of English writing?   
+
+The time the learner decides to keep a good answer he/she has already known fairly well of all those statistics. What worse, to extract one answer his solution is just unnecessary and superfluous given that Kenneth Reitz has offered us a much more suitable repository named url2markdown which was based on the well known html2text.
+
+After a second thought, I find its tiny value. 
+
+1. From pyquora the topics of one question is available, so is the question_details. Both are correspondingly provided in a JSON form, whereas further parsing is inevitable using Kenneth's tools. It's an other question how to get full use of them. Maybe the topic can be used when I build a smart word book. 
+1. Some meaningful calculations from those data may be useful to estimate the quality. By way of example, views/upvote_count is important. The amount of those who also want answers can be viewed as a indicator of the questions popularity; the comment_count reflects the integrity of the answer.
+
+In short, as far as I know, url2markdown is more generous than pyquora, resulting in both its advantages such as I can fetch all kinds of sites using it, and its disadvantages that it neglects too much details witch would be essential in some contexts. 
+
+...........................     
+Welcome proofreading help and language suggestions. Tons of thanks in advance.
+

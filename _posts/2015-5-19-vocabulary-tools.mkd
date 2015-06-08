@@ -1,0 +1,31 @@
+---
+layout: post
+title: vocabulary tools
+tags: vocabulary, tool, English, writing
+---
+
+# thesaurus  
+1. thesaurus.com  
+1. powerthesaurus.com  
+1. phrontistery.info
+1. visuwords.com
+
+# jargon
+1. spaced repetition
+1. http://onelook.com/reverse-dictionary.shtml
+
+# article
+1. [how to remember words when learning a language](http://www.lingholic.com/how-to-remember-words-when-learning-a-language/)
+
+# API
+1. http://www.datamuse.com/api/
+1. wordnik
+
+# book
+1. natural language processing with python
+
+# researcher
+1. Shankar Ambady
+
+# challeges
+1. quora.com/challenges

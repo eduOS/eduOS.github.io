@@ -1,0 +1,15 @@
+---
+layout: post
+title: an excellent formatter
+tags: post, github
+---
+
+I don't know how to employ chrome browser console to view the source in a friendly way, thus I've tried many format tools. Coping and pasting the source to the online famatter is a pain. What's more, normally I would forget the url of the tool because of my pool memorry after using it.
+
+Today I found [infohound tidy](infohound.net/tidy/tidy.pl). Just copy and paste the url of the target page to the textbox and then you'll get the formatted source content.
+
+A snag should be conquered: how to better use chrome console?
+
+...........................................   
+**Welcome proofreading help and language suggestions. Tons of thanks in advance.**
+
