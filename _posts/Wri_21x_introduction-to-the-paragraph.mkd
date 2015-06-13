@@ -4,7 +4,7 @@ title: types and lengths of paragraphs
 tags: post, github
 ---
 
-I thought the types and lengths of paragraphs vary depending on at least three factors: the text itself, the audience and the particular context.
+I thought the types and lengths of paragraphs vary depending on at least three factors: the complexity of the text, the characteristics of the potential audience and the particular context.
 
 how big the topic you're talking is,
 
