@@ -1,0 +1,79 @@
+---
+layout: post
+title: extensive reading and foreign language acquisition
+tags: post, quora, context
+---
+
+Day and Bamford's 10 principles of extensive reading(ER) are extensively referred as a theoretical and pedagogical baseline(Stesuko, 2015). Bellow I want to illustrate why Quora is one of the best places fitting very well these ten principles(Day & Bamford, 2002).
+
+1. The reading material is easy.
+Compared to Wikipedia whose wiki pages are always too difficult for overall understanding but has been unduly touting by many scholars(?) to be used in L2 learning, texts on Quora are much more within the reading competence in English. What's more students can easily find articles within their reading comfort zone by following corresponding users(Quorans in Quora) and blogs. Once those users and blogs are followed Quora Recommendations Engine would bump the relevant feed to the "Home" section. If those feeds cannot reflect their language ability they can remove them telling Quora to do better next time. 
+#In helping beginning readers select texts that are well within their reading comfort zone, more than one or two unknown words per page might make the text too difficult for overall understanding. Intermediate learners might use the rule of hand -- no more than five difficult words per page. Hu and Nation (2000) suggest that learners must know at least 98% of the words in a fiction text for unassisted understanding.
+
+2. A variety of reading material on a wide range of topics must be available.
+Quora can absolutely play such a role as Quora's director of data science Yair Livne wrote(2012) in his answer(7IFWd7) to "On what topics does Quora have the best questions and answers?", "Quora has quality content on a diverse and balanced set of topics". According to his analysis answers during a certain period can be grouped into the five categories roughly of the same size as listed in decrease order: business & tech(24%), food & entertainment(23%), politics & social sciences(20%), health & life advice(20%) and others(13%). To explore the diversity of topics on Quora [here](www.quora.com/sitemap) is the official list. Such a large amount of topics are growing because everyone can create new tags. 
+
+The platform can track in the background what you like and dislike to feed you the appropriate moments, thus students can fully awakened and encouraged to read and write answers or comments or private messages. 
+
+Learners with different reasons can read in different ways. If it's too harry to read an intresting answer Quora allows him/her keep it in the reading list. Thus the reading approach is very flexible.
+
+3. Learners choose what they want to read.
+The principle of freedom of choice means that learners can select texts as they do in their own language, that is, they can choose texts they expect to understand, to enjoy or to learn from. Correlative to this principle, learners are also free, indeed encouraged, to stop reading anything they find to be too difficult, or that turns out not to be of interest.
+
+What Henry noticed about her L1 non-reading undergraduates is no less true in foreign language reading: "my students needed to read for themselves, not for me" (1995: 6). For students used to working with textbooks and teacher-selected texts, the freedom to choose reading material (and freedom to stop reading) may be a crucial step in experiencing foreign language reading as something personal.
+
+Further, although there may be a class or homework assignment, extensive reading puts the student in charge in other important ways. As Henry observes, "compliance means reading books, but other than that, the purposes and pleasures to which students put their reading are entirely their own" (p. 69). This encourages students to become responsible for their own learning. Samuels, in discussing first language reading, claims that "unless we phase out the teacher and phase in the learner, many of our students will fail to become independent because throughout their education they were always placed in a dependent role -- dependent on the teacher" (1991: 17).
+
+4. Learners read as much as possible.
+This is the "extensive" of extensive reading, made possible by the previous principles. The most critical element in learning to read is the amount of time spent actually reading. While most reading teachers agree with this, it may be the case that their students are not being given the opportunity or incentive to read, read, and read some more.
+
+There is no upper limit to the amount of reading that can be done, but a book a week is probably the minimum amount of reading necessary to achieve the benefits of extensive reading and to establish a reading habit. This is a realistic target for learners of all proficiency levels, as books written for beginners and low-intermediate learners are very short.
+
+5. The purpose of reading is usually related to pleasure, information and general understanding.
+In an extensive reading approach, learners are encouraged to read for the same kinds of reasons and in the same ways as the general population of first-language readers. This sets extensive reading apart from usual classroom practice on the one hand, and reading for academic purposes on the other. One hundred percent comprehension, indeed, any particular objective level of comprehension, is not a goal. In terms of reading outcomes, the focus shifts away from comprehension achieved or knowledge gained and towards the reader's personal experience.
+
+A reader's interaction with a text derives from the purpose for reading. In extensive reading, the learner's goal is sufficient understanding to fulfill a particular reading purpose, for example, the obtaining of information, the enjoyment of a story, or the passing of time.
+
+6. Reading is its own reward.
+The learners' experience of reading the text is at the center of the extensive reading experience, just as it is in reading in everyday life. For this reason, extensive reading is not usually followed by comprehension questions. It is an experience complete in itself.
+
+At the same time, teachers may ask students to complete follow-up activities based on their reading (see Bamford and Day (in press) for a wide variety of extensive reading activities for teaching foreign language). The reasons for this are various: to find out what the student understood and experienced from the reading; to monitor students' attitudes toward reading; to keep track of what and how much students read; to make reading a shared experience; to link reading to other aspects of the curriculum. For such reasons, students may be asked to do such things as write about their favorite characters, write about the best or worst book they have read, or do a dramatic reading of an exciting part of a novel. Such activities, while respecting the integrity of students' reading experiences, extend them in interesting and useful ways.
+
+7. Reading speed is usually faster rather than slower.
+When learners are reading material that is well within their linguistic ability, for personal interest, and for general rather than academic purposes, it is an incentive to reading fluency. Nuttall notes that "speed, enjoyment and comprehension are closely linked with one another" (1996: 128). She describes "The vicious circle of the weak reader: Reads slowly; Doesn't enjoy reading; Doesn't read much; Doesn't understand; Reads slowly. . ." (p. 127) and so on. Extensive reading can help readers "enter instead the cycle of growth. . . . The virtuous circle of the good reader: Reads faster; Reads more; Understands better; Enjoys reading; Reads faster. . ." (p. 127).
+
+In the service of promoting reading fluency, it is as well to discourage students from using dictionaries when they come across words they don't understand. Extensive reading is a chance to keep reading, and thus to practice such strategies as guessing at or ignoring unknown words or passages, going for the general meaning, and being comfortable with a certain level of ambiguity.
+
+8. Reading is individual and silent.
+Silent, individual extensive reading contrasts with the way classroom texts are used as vehicles for teaching language or reading strategies or (in traditional approaches) translated or read aloud. It allows students to discover that reading is a personal interaction with the text, and an experience that they have responsibility for. Thus, together with freedom to choose reading material, individual silent reading can be instrumental in students discovering how foreign language reading fits into their lives.
+
+Extensive reading means learners reading at their own pace. It can be done both in the students' own time when and where the student chooses, or inside the classroom when part or all of a classroom period is set aside for silent, self-selected reading. In the latter case, teachers may witness, as Henry describes it, "the most beautiful silence on earth, that of students engrossed in their reading" (1995: xv).
+
+9. Teachers orient and guide their students.
+As an approach to teaching reading, extensive reading is very different from usual classroom practice. Students accustomed to wading through difficult foreign language texts might drown when suddenly plunged into a sea of simple and stimulating material. Serious-minded students, for example, in thrall of the macho maxim of foreign language reading instruction, No reading pain, no reading gain, might not understand how reading easy and interesting material can help them become better readers.
+
+Students thus need careful introduction to extensive reading. Teachers can explain that reading extensively leads not only to gains in reading proficiency but also to overall gains in language learning. The methodology of extensive reading can be introduced, beginning with choice: students choosing what to read is an essential part of the approach. Teachers can reassure students that a general, less than 100%, understanding of what they read is appropriate for most reading purposes. It can be emphasized that there will be no test after reading. Instead, teachers are interested in the student's own personal experience of what was read -- for example, was it enjoyable or interesting, and why?
+
+The final component of orientation is practical. Students are introduced to the library of reading materials and how it is divided into difficulty levels. It should be remembered that students unaccustomed to browsing foreign language reading material may need assistance in selecting appropriate texts of interest to them.
+
+Orientation is the first step. Guidance throughout the extensive reading experience is also needed, in light of the independence and choice extensive reading allows learners. Teachers can keep track of what and how much each student reads, and their students' reactions to what was read. Based on this information, teachers can encourage students to read as widely as possible and, as their language ability, reading ability and confidence increase, to read at progressively higher levels of difficulty. Guidance implies a sharing of the reading experience, which leads us to the final principle of extensive reading.
+
+10. The teacher is a role model of a reader.
+Reading is caught, not taught(Nuttall, 1996), as is famously said. 
+
+Nuttall famously said, "reading is caught, not taught" (1996: 229). Maley explains the implications of this for teachers when he says, "We need to realize how much influence we have on our students. Students do not just (or even) learn the subject matter we teach them; they learn their teachers. Teacher attitude, more than technical expertise, is what they will recall when they leave us" (1999:7). In short, effective extensive reading teachers are themselves readers, teaching by example the attitudes and behaviors of a reader. In Henry's words, teachers are "selling reading" (1995: 52), and the primary way to do that is to be a reader.
+
+Further, in Henry's opinion, teachers of extensive reading "have to commit to reading what their students do" (1995: 52). She explains, "By reading what my students read, I become a part of the community that forms within the class" (p. 53). When students and teachers share reading, the foreign language reading classroom can be a place where teachers discuss books with students, answer their questions and make tailor-made recommendations to individual students. It can be a place where students and teachers experience together the value and pleasure to be found in the written word.
+
+Conclusion
+
+Our top ten principles for teaching extensive reading complement the ten principles for teaching foreign language reading offered by Williams. We hope that our ten principles will give teachers food for thought and reflection as they consider their beliefs about how best to help their students become proficient foreign-language readers. 
+
+
+
+Setsuko Mori, A. (2015). If you build it, they will come: From a "Field of Dreams" to a more realistic view of extensive reading in an EFL Context. Reading in a Foreign Language
+
+Richard Day & Julian Bamford, A. (2002). Top Ten Principles for Teaching Extensive Reading
+
+...........................     
+Welcome proofreading help and language suggestions. Tons of thanks in advance.
