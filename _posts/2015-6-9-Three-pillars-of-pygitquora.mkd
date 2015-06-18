@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Three pillars of the pygitquora: QandA platform, natual language processing and version control
-tags: post, github
+tags: post, quora
 ---
 
 For my thesis, I gather three foundations as the title listed. 

@@ -1,0 +1,13 @@
+---
+layout: post
+title: Fire up the Gitlab
+tags: post, github
+---
+
+I've spent over one day to tackle [this problem](http://serverfault.com/q/699651/294695), but failed to find a satisfied answer. However, I've found a solution at leat to access the server. It's time to just dig in the Git server.
+
+Even though the question has been downvoted by one person, but I find a place to just keep a log on my research in a win-win way. StackExchange is a perfect place to take note. 
+
+...........................     
+Welcome proofreading help and language suggestions. Tons of thanks in advance.
+
