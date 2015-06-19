@@ -1,0 +1,13 @@
+---
+layout: post
+title: Education and Open Source
+tags: post, github
+---
+
+Decates ago, seldom can the crowd find documentation to learn how to tackle problems caused by Network Address Translation(NAT) for peer-to-peer(P2P) communication, especially communication from server in the global address realm to client on a private network until several guys from MIT documented it as a paper publicly. The technology is NAT traversal techniques, also called "hole punching" which I met days past.
+
+For every question, the questioner should better ask it on Quora if cannot get a professional answer then ask on StackExchange.
+
+...........................     
+Welcome proofreading help and language suggestions. Tons of thanks in advance.
+
