@@ -4,7 +4,7 @@ title: Develop vocabulary using version control and natural language processing
 tags: post, vocabulary, git, nlp, writing
 ---
 
-Like version control, there're three steps in the process of vocabulary building: track(unknown), commit(passive), and push(active). Passive vocabulary is those words you understand, but don't use in your speaking or writing. Whereas active vocabulary means words you use when you talk and write. Looking up words can only add you passive vocabulary most of the time. In what ways can we better acquire words and then turn them from passive vocabulary to active vocabulary? 
+Like version control, there're three steps in the process of vocabulary building: staged(unknown), modified(passive), and commited(active). Staged means that Git has got to know the file. Passive vocabulary is those words you understand, but don't use in your speaking or writing. Whereas active vocabulary means words you use when you talk and write. Looking up words can only add you passive vocabulary most of the time. In what ways can we better acquire words and then turn them from passive vocabulary to active vocabulary? 
 
 1. Learn categories
     Avoid single word memorization

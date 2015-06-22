@@ -44,7 +44,7 @@ After the first edition, rewriting plays an essencial role for an excellent essa
 In some difficult conditions, the writer would want to revert writings back to a previous state.
 
 What's worse, if some versions backuped in form of files are lost or screwed up, it is irreversable and disastrous.
-
+Updating [here](2015-6-9-Three-pillars-of-pygitquora.mkd)
 # white-label solution
 I need to find any white-label solutions for my new platform.
 

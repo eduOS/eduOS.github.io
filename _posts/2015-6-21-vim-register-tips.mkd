@@ -1,0 +1,28 @@
+---
+layout: post
+title: register tips
+tags: vim, register
+---
+
+All those stuff dumped in the register can be reused in many wired ways: paste to text, quickly command, edit and then reuse, keep track and etc.
+
+1. paste to text.
+  If I want to paste something processed previously I can first look up the register history by typing `:reg` to find what I need and then press <kbd>"</kbd> appending a register name then press <kbd>p</kbd>.
+2. quick command
+  I can directly copy the command in the text by press <kbd>"</kbd> <kbd>a</kbd> <kbd>y</kbd> <kbd>y</kbd> to copy the line under the cursor to register a. With a in the register I can recall it using `:@a` to execute it.
+3. edit then resue
+  Almost all things in the register can be substitued using the substitute method. By way of example, `@2=substitute(@2,'\n',' ','g')` can replace all line breaks with space. 
+4. keep track
+  Since register `"#` contains the name of the alternate buffer's file and "% the current one, I can take full use of these two filename registers to keep the abstract path of files in a easy way.
+
+[This blog](www.blog.sanctum.geek.nz/advanced-vim-registers/) detailed many advanced usages of vim register.
+
+Further question:
+1. I want to select a block of words in a working markdown file to be appended into a particular file just by choosing it in the visual mode and a keystroke. What's more the sentence containing this words should also be saved and so as the file path. I tried my best but failed using the following script:  
+```
+vnoremap <localleader>a "ay<esc>("byas let @2=substitute(@2,'\n',' ','g') :let @b=substitute(@b,'\n',' ','g') :sp /home/leo/Documents/corpora/myvoca.dt<cr>G"apGo<esc>"bpGo<esc>"#pGo<esc> :w<cr>ZZ
+```
+
+...........................     
+Welcome proofreading help and language suggestions. Tons of thanks in advance.
+

@@ -1,0 +1,15 @@
+# Version control system: Git
+Rather than a result, writing is a process starting from prewriting to the final submission. 
+
+In this duration, many changes/versions are produced a/some particular of which would be recalled at a particular time point, in or after the process of writing. 
+
+Students search among revisions for keeping the steps of writing before finish the first edition.
+
+After the first edition, rewriting plays an essencial role for an excellent essay. Ernest Hemingway said that, "I rewrote the ending of Farewell to Arms, the last page of it, 39 times before I was satistified" to the question "How much rewriting do you do?" in a interview in 1956. 
+
+"To get the words right", in words Hemingway said in that interview aforementioned, which means the pursuit of clearness and and exactness in writing, valued word, the unite of every article, very much. And absolutely, it deserves that importance.
+
+In some difficult conditions, the writer would want to revert writings back to a previous state. Since Git generally only adds data, which means nothing is undoable, you can travel among these versions and never lose anything in almost any circumstances.
+
+What's worse, if some versions backuped in form of files are lost or screwed up, it is irreversable and disastrous.
+
