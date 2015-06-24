@@ -1,50 +1,50 @@
----
-layout: post
-title: Develop vocabulary using version control and natural language processing 
-tags: post, vocabulary, git, nlp, writing
----
-
-Like version control, there're three steps in the process of vocabulary building: staged(unknown), modified(passive), and commited(active). Staged means that Git has got to know the file. Passive vocabulary is those words you understand, but don't use in your speaking or writing. Whereas active vocabulary means words you use when you talk and write. Looking up words can only add you passive vocabulary most of the time. In what ways can we better acquire words and then turn them from passive vocabulary to active vocabulary? 
-
-1. Learn categories
-    Avoid single word memorization
-    Think about groups of words
-
-How can I utilize NLTK to categorize my word book automatically? Since 
-
-2. Journal & sticky notes
-    Glean words to keep in word book
-    Write sentences using them
-
-3. collocations
-    Can NLTK help me do this since it's quite hard for me to download the collocation dictionary corpus for not cost
-
-4. Mnemonics
-    My own mnemonics
-    Mnemonic Dictionary: http://mnemonicdictionary.com
-
-I already get one repo for this, I'll make a vim version like Thesaurus. And also one for collocations.
-
-5. Speak it, write it
-    Immediately, in sentence, three times a day
-
-Write everyday on Quora and for thesis
-
-6. Area specific
-    Relate words to a particular area. Make word tree, charts, wheels, etc.
-
-That's exactly what Quora for. Quora topic
-
-7. Observation journal
-    Keep a notebook for glean words when you see something name it in your native language or using photoes
-
-8. Spaced repetition(SRS)
-    www.ankisrs.net; www.omniglot.com/language/srs.php
-
-Time should be marked for reviewing
-
-Make a mobile version
-
-...........................     
-Welcome proofreading help and language suggestions. Tons of thanks in advance.
-
+---   
+layout: post   
+title: Develop vocabulary using version control and natural language processing    
+tags: post, vocabulary, git, nlp, writing   
+---   
+   
+Like version control, there're three steps in the process of vocabulary building: staged(unknown), modified(passive), and commited(active). Staged means that Git has got to know the file. Passive vocabulary is those words you understand, but don't use in your speaking or writing. Whereas active vocabulary means words you use when you talk and write. Looking up words can only add you passive vocabulary most of the time. In what ways can we better acquire words and then turn them from passive vocabulary to active vocabulary?    
+   
+1. Learn categories     
+    Avoid single word memorization     
+    Think about groups of words     
+   
+How can I utilize NLTK to categorize my word book automatically? Since    
+   
+2. Journal & sticky notes     
+    Glean words to keep in word book     
+    Write sentences using them   
+   
+3. collocations   
+    Can NLTK help me do this since it's quite hard for me to download the collocation dictionary corpus for not cost   
+   
+4. Mnemonics   
+    My own mnemonics   
+    Mnemonic Dictionary: http://mnemonicdictionary.com   
+   
+I already get one repo for this, I'll make a vim version like Thesaurus. And also one for collocations.   
+   
+5. Speak it, write it   
+    Immediately, in sentence, three times a day   
+   
+Write everyday on Quora and for thesis   
+   
+6. Area specific   
+    Relate words to a particular area. Make word tree, charts, wheels, etc.   
+   
+That's exactly what Quora for. Quora topic   
+   
+7. Observation journal   
+    Keep a notebook for glean words when you see something name it in your native language or using photoes   
+   
+8. Spaced repetition(SRS)   
+    www.ankisrs.net; www.omniglot.com/language/srs.php   
+   
+Time should be marked for reviewing   
+   
+Make a mobile version   
+   
+...........................        
+Welcome proofreading help and language suggestions. Tons of thanks in advance.   
+   
