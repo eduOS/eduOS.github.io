@@ -8,7 +8,7 @@ tags: post, github
 A quick but dirty approach to manage configuration files via a version control system Git is making the whole home directory a Git repositor. It's dirty, because any repository in the home directory will follow the `~/.gitignore`, resulting in a lot of flaws as I met yesterday. So I need to relocate that file.
 
 # reference
-[Managing dot files with Git](blog.sanctum.geek.nz/managing-dot-files-with-git/)  
+[Managing dot files with Git](http://blog.sanctum.geek.nz/managing-dot-files-with-git/)  
 
 # New knowledge
 1. `.git` directory  
