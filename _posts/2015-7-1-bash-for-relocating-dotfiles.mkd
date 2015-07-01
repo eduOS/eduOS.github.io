@@ -14,7 +14,7 @@ A quick but dirty approach to manage configuration files via a version control s
 1. `.git` directory  
   The time I run `git init` under the root directory, Git creates the `.git` directory, which is where nearly every previous operation locates locally. Since Git has its integrity of never losing information, I'd like to keep everthing stored before. According to the aforementioned two reasons, I just directly moved the `.git` folder to the newly created subdirectory `.dotfile`. It turns out fine.  
 
-1. Symlink
+1. Symlink   
   :::bash
   ln  -s source_file symlink_file  
 
