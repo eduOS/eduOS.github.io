@@ -4,15 +4,15 @@ layout: home
 
 <div class="banner">
 
-h1. Hello.
+h2. How are you?
 
 </div>
 
 <div class="colophon">
 
-"Michael Monteleone (More About Michael)":/about/ is a software developer and designer from New Orleans who occasionally speaks in the third person.
+"Leo Adams (More About Leo)":/about/ is a graduate majoring in educational technology at East China Normal University, Shanghai.
 
-After twelve years of crafting corners of the Web for others and two years after blogs "died ('Wired' Confirms It)":http://www.wired.com/entertainment/theweb/magazine/16-11/st_essay/, he knew it was time to build his own.
+I love "programming(My code on GitHub)":https//github.com/eduOS and "writing(My answers on Quora)":www.quora.com/Leo-Adams-2. As a non-computer major, I dare not to 
 
 He's written "more (More About Michael)":/about/ about himself, but would rather hear from "you (Speaking of dead technology, send me an email!)":mailto:michael@michaelmonteleone.net
 

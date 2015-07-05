@@ -1,0 +1,44 @@
+---
+layout: post
+title: Get only the word from xml file
+tags: vim, corpus
+---
+
+#problem
+
+The file outputed from youdao with a suffix of .xml is like this:  
+
+    :::text
+    </item><item>    <word>gloriously</word>
+        <trans><![CDATA[adv. 光荣地；辉煌地；壮观地，壮丽地 
+    gloriously: 光荣地 | 辉煌地 | 壮丽地]]></trans>
+        <phonetic><![CDATA[['glɔ:riəsli]]]></phonetic>
+        <tags>Quora</tags>
+        <progress>-1</progress>
+    
+But I need is at least like this:
+
+    :::text
+    gloriously
+
+Even thought other detailed information such as time and group are also deadly needed.
+
+#Process
+
+1. Delete all lines without containing the vocabulary.
+
+    :::viml
+    :sed '/word/!d' file.xml >> file.txt
+
+1. Result is like this:
+
+   :::text
+    </item><item>    <word>gloriously</word>
+
+1. Delete the script swapt around the word in each line:
+
+    :::viml
+    :%normal 0d3f>
+    :%normal f<d$
+...........................     
+Welcome proofreading help and language suggestions. Tons of thanks in advance.
