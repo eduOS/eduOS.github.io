@@ -1,4 +1,6 @@
-# Version control system: Git
+Version control system: Git
+-------
+
 Rather than a result, writing is a process starting from prewriting to the final submission. 
 
 In this duration, many changes/versions are produced a/some particular of which would be recalled at a particular time point, in or after the process of writing. 
@@ -12,4 +14,11 @@ After the first edition, rewriting plays an essencial role for an excellent essa
 In some difficult conditions, the writer would want to revert writings back to a previous state. Since Git generally only adds data, which means nothing is undoable, you can travel among these versions and never lose anything in almost any circumstances.
 
 What's worse, if some versions backuped in form of files are lost or screwed up, it is irreversable and disastrous.
+
+# Features
+1. log   
+With the help of the `log` function, users can better look back to see what has happened by viewing the commit history. Almost all details, including the commit message, SHA-1 checksum, author, and the email, the date written, are recorded and, later, can be easily searched and parsed by machine. 
+
+By way of example, argument `--grep` lets us search for keywords in the commit messages; `-S`word allows us to search word following `-S` among removed or added changes. `--since`, `--after`, `--until` and `--before` are four options for limiting the commits of date.  
+
 
