@@ -1,7 +1,7 @@
 ---
 layout: post
 title: corpus analysis
-tags: post, github
+tags: corpus, github
 ---
 
 The majority of the natural language processing work is about corpus analysis. I borrowed a book _Teaching and Learning by Doing Corpus Analysis_ last week, only to find it's just written for me. 
@@ -10,6 +10,8 @@ According to the source recommendation in the book, I found many useful tools an
 1. www-nlp.stanford.edu
 2. www.corpora4learning.net
 3. Corpus-Based and Corpus-driven Analyses of Language Variation and Use
+4. [Corpus of contemporary American English](corpus.byu.edu/coca/)
+
 
 ...........................     
 Welcome proofreading help and language suggestions. Tons of thanks in advance.
