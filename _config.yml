@@ -1,25 +1,25 @@
-title: Michael Monteleone
-url: http://michaelmonteleone.net
-description: 'Personal site of Michael Monteleone, software developer and designer from New Orleans'
+title: Leo Adams
+url: http://eduos.github.io/
+description: 'I am a graduate student from East China Normal University majoring in educational technology. I am pursuing a dream job of programming in the near future.'
 keywords:
- - Michael Monteleone
- - Mike Monteleone
- - namelessmike
+ - Leo Adams
+ - Zhang Le
+ - Leo
 
 author:
-    name: Michael Monteleone
-    email: michael@michaelmonteleone.net
-    twitter: http://twitter.com/namelessmike
-    github: http://github.com/mmonteleone
-    delicious: http://delicious.com/namelessmike
-    pinboard: http://pinboard.in/u:namelessmike
-    googleplus: http://plus.google.com/100369739207842495161
-    facebook: http://www.facebook.com/michael.monteleone
-    linkedin: http://www.linkedin.com/in/michaelmonteleone/
-    avatar: http://www.gravatar.com/avatar/392da320b3aa4068d0b03024135875fb?s=70
+    name: Leo Adams
+    email: fanle_2013@163.com
+    twitter: http://twitter.com/LeoAdams
+    github: http://github.com/eduOS
+    delicious: http://delicious.com/leoadamszhang
+    quora: http://www.quora.com/Leo-Adams-2
+    googleplus: http://plus.google.com/+LeoAdamszhang
+    facebook: http://www.facebook.com/leo.adams.zhang
+    linkedin: 
+    avatar: https://scontent-lax1-1.xx.fbcdn.net/hphotos-xpt1/v/t1.0-9/11067477_1567166096885900_599876307886131697_n.jpg?oh=7492f4e926e74084b8908a75e134a087&oe=56221B57
     openid:
-        server: https://www.google.com/accounts/o8/ud
-        delegate: http://www.google.com/profiles/namelessmike
+        server: 
+        delegate: 
     
 sections:
  - projects
