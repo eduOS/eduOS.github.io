@@ -1,0 +1,15 @@
+---
+layout: post
+title: Linguistic problems
+tags: English
+---
+
+# None-Predicate Verbs
+A quote that *All one can do **is find** which mathematical models describe the universe we live in* by Stephen Hawking which was [cited][Wikipage] by Wikipedia seems ungrammatical. The same mistake was made by Prof. Anne Aly in a [Q&A TV show][transcript]: *The first thing that they do with their propaganda **is tell** young people to reject their Australia citizenship, to reject their Australia identity.*
+
+[transcript]: http://www.abc.au/tv/qanda/txt/s4246615.htm
+[Wikipage]: https://en.wikipedia.org/wiki/Imaginary_time
+
+...........................     
+Welcome proofreading help and language suggestions. Tons of thanks in advance.
+
