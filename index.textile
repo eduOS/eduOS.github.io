@@ -12,9 +12,9 @@ h2. How are you?
 
 "Leo Adams (More About Leo)":/about/ is a graduate majoring in educational technology at East China Normal University, Shanghai.
 
-I love "programming(My code on GitHub)":https//github.com/eduOS and "writing(My answers on Quora)":www.quora.com/Leo-Adams-2. As a non-computer major, I dare not to 
+I love "programming(My code on GitHub)":https//github.com/eduOS and "writing(My answers on Quora)":www.quora.com/Leo-Adams-2. 
 
-He's written "more (More About Michael)":/about/ about himself, but would rather hear from "you (Speaking of dead technology, send me an email!)":mailto:michael@michaelmonteleone.net
+
 
 </div>
 
@@ -35,11 +35,6 @@ h4. He recently wrote
 
 h4. He recently released
 
- * "Delorean":http://github.com/mmonteleone/delorean <span class="line-meta">Flux capacitor for accurately faking time-bound JavaScript for testing purposes, including complex interactions of timeouts, intervals, and dates. </span>
- * "Pavlov":http://github.com/mmonteleone/pavlov <span class="line-meta">Behavioral API over QUnit and More</span> 
- * "DynamicBuilder":http://github.com/mmonteleone/nate <span class="line-meta">Suspiciously pleasant XML construction API for C# 4, inspired by  Ruby's Builder</span>
- * "jQuery.safetynet":http://github.com/mmonteleone/jquery.safetynet <span class="line-meta">A smarter in-browser "unsaved changes" warning plugin</span> 
- * "Nate":http://github.com/mmonteleone/nate <span class="line-meta">Simple little fluent state machine for C#</span>
 
 <span class="more">"More Projects &rarr;(View All Projects)":/projects/</span>
 
