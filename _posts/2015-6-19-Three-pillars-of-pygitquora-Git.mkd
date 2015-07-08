@@ -16,9 +16,11 @@ In some difficult conditions, the writer would want to revert writings back to a
 What's worse, if some versions backuped in form of files are lost or screwed up, it is irreversable and disastrous.
 
 # Features
+1. tag  
+Normally every kind of Writing process contains several steps, for instance, five steps of college academic writing: prewriting, planning, drafting, revising & editing and making a final copy. These five points are specific and important in the process. We can tag those time points as snapshots right after finishing the step or later. Just as branches tags can be shared remotely on the server. 
+
 1. log   
 With the help of the `log` function, users can better look back to see what has happened by viewing the commit history. Almost all details, including the commit message, SHA-1 checksum, author, and the email, the date written, are recorded and, later, can be easily searched and parsed by machine. 
 
 By way of example, argument `--grep` lets us search for keywords in the commit messages; `-S`word allows us to search word following `-S` among removed or added changes. `--since`, `--after`, `--until` and `--before` are four options for limiting the commits of date.  
-
 
