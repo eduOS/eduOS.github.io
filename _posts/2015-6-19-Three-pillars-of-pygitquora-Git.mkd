@@ -19,6 +19,8 @@ What's worse, if some versions backuped in form of files are lost or screwed up,
 1. tag  
 Normally every kind of Writing process contains several steps, for instance, five steps of college academic writing: prewriting, planning, drafting, revising & editing and making a final copy. These five points are specific and important in the process. We can tag those time points as snapshots right after finishing the step or later. Just as branches tags can be shared remotely on the server. 
 
+The process is not and hardly can be linear but interlaced. Sometimes students may have to brainstorm again at the fouth step of revising & editing, two steps after planing containing brainstorm. It's possible and acceptble. Then, here a problem occurs that if the previous snapshot is editable.
+
 1. log   
 With the help of the `log` function, users can better look back to see what has happened by viewing the commit history. Almost all details, including the commit message, SHA-1 checksum, author, and the email, the date written, are recorded and, later, can be easily searched and parsed by machine. 
 
