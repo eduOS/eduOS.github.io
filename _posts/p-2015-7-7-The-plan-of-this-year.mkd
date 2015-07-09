@@ -22,6 +22,9 @@ I have only finished 75 pages of the Git handbook. So next month, this book is t
 
 Due to the time limitation, the strategy should be more flexible now. Reading more papers and writing more to prepare myself for the comming graduation oral examination were what Yu placed emphasis on in the meeting that this noon. She also figured out that I need not to realize all functions I want, just suggest if they're done what the meanings are according to theories of process writing. 
 
+# internship
+Searching for a internship now is not necessary for me for the following reasons: 1) interning at a company is just the same as I do what I'm doing now, provided that I'm capable of the position; 2) more often I should start from doing some trivial matters, which is just a waste of time for me; 3) no so much time left for me to complete the job in hand; 4) with some open source project, I'll get better oppotunities
+
 ...........................     
 Welcome proofreading help and language suggestions. Tons of thanks in advance.
 
