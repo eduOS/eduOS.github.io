@@ -27,7 +27,7 @@ With the help of the `log` function, users can better look back to see what has 
 By way of example, argument `--grep` lets us search for keywords in the commit messages; `-S`word allows us to search word following `-S` among removed or added changes. `--since`, `--after`, `--until` and `--before` are four options for limiting the commits of date.  
 
 1. history exploring
-In this aspect, Git is versatile. Git can cut it no matter when you are searching contents of files, commit messages and diffs, whether text was added or removed, through a commit, thus resulting in pretty powerful process based and oriented supporting for the writer. It's process oriented because for the convenience of later examination the writer tends to make more commits, tags and so on to mark every even small step, which automatically forms an elaborate writing process history for every repository(essay).
+In this aspect, Git is versatile. Git can cut it no matter when you are searching contents of files, commit messages and diffs, whether text was added or removed, through a commit, thus resulting in pretty powerful process based and oriented supporting for the writer. It's process oriented because for the convenience of later examination the writer tends to make more commits, tags and so on to make every even small step checked in, which automatically forms an elaborate writing process history for every repository(essay).
 
 # Question  
 1. The fundermental one is that if Git is irreplaceable. If it's, do I have any evidence? Are there any theoretical fundations? If not, why? What are the alternatives and what are their advantages and disadvantages?
