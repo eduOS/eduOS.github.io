@@ -26,3 +26,5 @@ With the help of the `log` function, users can better look back to see what has 
 
 By way of example, argument `--grep` lets us search for keywords in the commit messages; `-S`word allows us to search word following `-S` among removed or added changes. `--since`, `--after`, `--until` and `--before` are four options for limiting the commits of date.  
 
+# Question  
+1. The fundermental one is that if Git is irreplaceable. If it's, do I have any evidence? Are there any theoretical fundations? If not, why? What are the alternatives and what are their advantages and disadvantages?
