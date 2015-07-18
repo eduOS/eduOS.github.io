@@ -23,6 +23,7 @@ I love "programming(My code on GitHub)":https//github.com/eduOS and "writing(My 
 
 h4. He recently wrote
 
+
 {% for post in site.posts limit: 5 %}
 * "{{ post.title }}":{{ post.url }} <span class="line-meta">{{ post.date | date: "%A, %B %d, %Y" }}</span>
 {% endfor %} 
@@ -34,8 +35,17 @@ h4. He recently wrote
 <div class="section">
 
 h4. He recently released
-
+{% for project in site.projects limit: 3 %}
+* "{{ project.title }}":{{ project.url }} <span class="line-meta">{{ project.date | date: "%A, %B %d, %Y" }}</span>
+{% endfor %} 
 
 <span class="more">"More Projects &rarr;(View All Projects)":/projects/</span>
+
+h4. He recently answered
+{% for post in site.projects limit: 3 %}
+* "{{ projects.title }}":{{ projects.url }} <span class="line-meta">{{ projects.date | date: "%A, %B %d, %Y" }}</span>
+{% endfor %} 
+
+<span class="more">"All answers &rarr;(View the Full Answers)":/answers/</span>
 
 </div>
