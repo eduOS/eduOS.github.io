@@ -30,7 +30,7 @@ Zsh is viewed widely as a more powerful and cooler prompt than Bash.
     
 Today after experiencing this awesome tool I should admit that Zsh is way tricky than Bash. Some references can be found from these sites:      
 1. Youtube: gotbletu    
-1. unix.stackexchange: 3428/118192    
+1. unix.stackexchange: [share alias](http://unix.stackexchange.com/a/3445/118192)
 1. people: richardhartmann.de    
 ...........................         
 Welcome proofreading help and language suggestions. Tons of thanks in advance.    
