@@ -1,0 +1,18 @@
+---
+layout: post
+title: Repository resource
+tags: writing, github
+---
+
+What I need is acturally any form of text source versioned using Git and written in English. So there are two elements: Git platform and English text. 
+
+For the former one, BitBucket can be just ignored because of its close source natural making me cannot fetch those writings; for the latter, text written by EFL writers are preferable, since they will revise more times than the native speakers, resulting in more versions and obvious progress in the process of time. 
+
+The next step is to find those guys who have the same hobby as me but are more generous than me to open source their repositories.
+
+Normally, I'll find more writings on technology, especially programming.
+
+
+...........................     
+Welcome proofreading help and language suggestions. Tons of thanks in advance.
+
