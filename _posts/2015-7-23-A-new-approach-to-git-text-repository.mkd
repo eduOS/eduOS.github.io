@@ -12,6 +12,11 @@ The next step is to find those guys who have the same hobby as me but are more g
 
 Normally, I'll find more writings on technology, especially programming.
 
+issue
+--------
+Maybe the text in GitHub issue section is also research worthy.
+
+
 Blog list
 ---------
 1. [tuhdo](https://github.com/tuhdo/tuhdo.github.io)
@@ -22,6 +27,7 @@ For those who write technical posts containing codes, I need to separate them ap
 1. [learnvimscriptthehardway](https://github.com/sjl/learnvimscriptthehardway)
 I learn Vim script by following this tutorial, finding that his wording is very native and vivid. As he is a native speaker he is not an appropriate option, but I want to know the process of his writing using version analysis to see if he paid much attention on writing.
 
+1. 
 ...........................     
 Welcome proofreading help and language suggestions. Tons of thanks in advance.
 
