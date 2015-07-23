@@ -12,6 +12,10 @@ The next step is to find those guys who have the same hobby as me but are more g
 
 Normally, I'll find more writings on technology, especially programming.
 
+Blog list
+---------
+1. tuhdo  
+The posts in the emacs-tutor is a good subject. In one of his [comments](http://disq.us/8o2b9p) to a post on the importance of Englishto programmers he wrote that "I think writing blog in English is the best way to improve English skills. I started a blog on GitHub and always revise the articles several times." 
 
 ...........................     
 Welcome proofreading help and language suggestions. Tons of thanks in advance.
