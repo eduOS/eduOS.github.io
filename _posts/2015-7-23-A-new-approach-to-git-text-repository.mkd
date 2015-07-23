@@ -15,7 +15,9 @@ Normally, I'll find more writings on technology, especially programming.
 Blog list
 ---------
 1. tuhdo  
-The posts in the emacs-tutor is a good subject. In one of his [comments](http://disq.us/8o2b9p) to a post on the importance of Englishto programmers he wrote that "I think writing blog in English is the best way to improve English skills. I started a blog on GitHub and always revise the articles several times." 
+The posts in the emacs-tutor is a good subject. In one of his [comments](http://disq.us/8o2b9p) to a post on the importance of Englishto programmers he wrote that "I can relate to you since I've been working in British for more than a year, but communicating with colleagues is still a headache. On writing, I thought the fastest way to make a big process is write blog, in English. I started mine in Novernber 2014, and ever since I rewrite every post several times, which benefits me a lot. I hightly recommend you this way of writing and revising method." Yi Tang, the owner of the git blog tuhdo.github.io, is a perfect subject. He is a Chinese, even though English is no longer a foreign language for him but a second language. His motivation of writing is in part and most importantly for improving English writing skills.
+
+For those who write technical posts containing codes, I need to separate them apart, leaving only the text.
 
 ...........................     
 Welcome proofreading help and language suggestions. Tons of thanks in advance.
