@@ -29,5 +29,17 @@ By way of example, argument `--grep` lets us search for keywords in the commit m
 1. history exploring
 In this aspect, Git is versatile. Git can cut it no matter when you are searching contents of files, commit messages and diffs, whether text was added or removed, through a commit, thus resulting in pretty powerful process based and oriented supporting for the writer. It's process oriented because for the convenience of later examination the writer tends to make more commits, tags and so on to make every even small step checked in, which automatically forms an elaborate writing process history for every repository(essay).
 
+# Wiki vs. Git
+When hearing Git assisted writing, anyone will ask why not Wiki? 
+
+In my opinion, Wiki is one-version- or standard-version- oriented, which means the end of writing is to approach a standard final submission. As aforementioned, we're really trying to meet that goal. Let's see why Wiki is so widely harnessed in writing classes(Using a Wiki to scaffold primary-school students collaborative writing, M. Woo, S. Chu, 2011). 
+
+1. Exposing the learning in the  Internet, thus scaffolding students to evaluate and extract its resource.
+1. Transparency for sharing and peer review.  
+1. After-class synergic platform.
+1. Teachers can view the revision of the writing with the help of Wiki's tracking system, and then can provide timely intervention. 
+
+As we can see, the first three affordances are pretty habitual for any kind of on-line editing platform. The fourth one mentioning tracking system, which is the unique function of Wiki compared to traditional and nowadays widely used MicroSoft Word, is also replaceable and even seems weak in front of Git.
+
 # Question  
 1. The fundamental one is that if Git is irreplaceable. If it's, do I have any evidence? Are there any theoretical foundations? If not, why? What are the alternatives and what are their advantages and disadvantages?
