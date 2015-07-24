@@ -1,3 +1,7 @@
+/**
+ * Copyright 2010 Michael Monteleone
+ */
+// run plugins
 jQuery(function($){
     // yes I know browser sniffing is the root of all evil.  will refactor soon. 
     // at least it's only done once!
@@ -1008,6 +1012,7 @@ jQuery(function($){
  * Requires either jQuery or YUI3.
  *
  * BSD license: Share and enjoy.
+ * @author carlos@bueno.org 23 April 2010
  * github.com/aristus/sweet-justice
  *
  */
