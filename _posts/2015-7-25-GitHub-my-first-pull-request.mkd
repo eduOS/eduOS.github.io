@@ -1,0 +1,23 @@
+---
+layout: post
+title: My First Git Pull Request
+tags: post, github
+---
+
+This is the git log of my first request to lukasschwab's repository stackit.
+
+```
+commit f0c3785cc66c8f40704533ed98b030760cec031c
+Author: eduOS <51130104064@ecnu.cn>
+Date:   Sat Jul 25 13:55:19 2015 +0800
+
+    show the answer using less, and reduce the question number to 4
+```
+
+I get to know how to pull a request but am still wondering wheather or not I can conduct all those steps locally using command line rather than clicking buttons in the browser.
+
+Contributing is a win-win solution to learn.
+
+...........................     
+Welcome proofreading help and language suggestions. Tons of thanks in advance.
+
