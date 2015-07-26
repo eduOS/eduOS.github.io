@@ -6,8 +6,9 @@ tags: vim, MySQL, Python
 
 I'll show you a case which would to some basic extent exemplify the usage of how to utilize MySQL in Vim as you mentioned. The Python acts as the bridge.
 
-This is the vim file:  
-    :::viml  
+This is the vim file:    
+
+    :::viml    
     "This line is for invoking the feature for only some particular filetypes as it will significantly reduce the loading speed. 
     autocmd VimEnter *.txt call <SID>LoadFunction()
     
@@ -50,8 +51,9 @@ This is the vim file:
         Python pythonmethod.closedb()
     endfunction
     
-This is the Python file under the same directory.
-    :::python   
+This is the Python file under the same directory.    
+
+    :::python    
     import vim 
     import MySQLdb as mdb
 
