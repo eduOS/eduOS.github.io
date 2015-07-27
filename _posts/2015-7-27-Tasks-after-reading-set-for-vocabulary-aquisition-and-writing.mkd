@@ -1,0 +1,21 @@
+---
+layout: post
+title: What tasks should be set to aquire vocabulary and improve writing skills?
+tags: writing, vocabulary
+---
+
+Vocabulary aquisition is among the first steps of improving writing skills. Developing vocabulary through reading, in my case extensive reading, is the only method for my research. To combine reading, vocabulary development and writing together, a serious tasks should be set as a bridge. 
+
+I know many kinds of tasks for vocabulary acquisition, such as Speak it, write it(method 5), spaced repitition(method 8), and categorizing(1), journal & sticky note(2) and collocation(3).
+
+My next step to realize this function in Vim is making a plugin for Speak it, write it and journal & sticky note.
+Now after some struggle users can easily glean words to keep in word book which are dumped in MySQL database.  
+Write sentences using them, immediately
+
+For writing, taking notes with the right strategies, summarizing and many ways.
+
+Two ways, taking note while reading extensively and answering questions for Quora like Q&A platforms which needs goal-oriented reading and intensive reading.
+
+...........................     
+Welcome proofreading help and language suggestions. Tons of thanks in advance.
+
