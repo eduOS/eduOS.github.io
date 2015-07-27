@@ -1,7 +1,7 @@
 ---   
 layout: post   
 title: Develop vocabulary using version control and natural language processing    
-tags: post, vocabulary, git, nlp, writing   
+tags: vocabulary, git, nlp, writing   
 ---   
    
 Like version control, there're three steps in the process of vocabulary building: staged(unknown), modified(passive), and commited(active). Staged means that Git has got to know the file. Passive vocabulary is those words you understand, but don't use in your speaking or writing. Whereas active vocabulary means words you use when you talk and write. Looking up words can only add you passive vocabulary most of the time. In what ways can we better acquire words and then turn them from passive vocabulary to active vocabulary?    
@@ -19,6 +19,8 @@ How can I utilize NLTK to categorize my word book automatically? Since
 3. collocations   
     Can NLTK help me do this since it's quite hard for me to download the collocation dictionary corpus for not cost   
    
+A study titiled The Impact of Task-based Extensive Reading on Lexical Collocation Knowledge of Intermediate EFL Learners done by Fatemeh Khonamri and Sakineh Roostaee(2005) claimed the fact that there is no significant difference in EFL learner's progress between the effects of form-focused and meaning-focused task. This important takeaway indicates that both the ways of aquiring language knowledge unconsciously by exposing to numerous inputs and gaining it using grammer rules intentionally almost equally matter. Some strategies listed here are form-focused like  while others are meaning-focused like Journal & sticky notes ovservation journal.
+
 4. Mnemonics   
     My own mnemonics   
     Mnemonic Dictionary: http://mnemonicdictionary.com   
