@@ -11,7 +11,7 @@ After the first edition, rewriting plays an essential role for an excellent essa
 
 "To get the words right", in words Hemingway said in that interview aforementioned, which means the pursuit of clearness and exactness in writing, valued word, the unite of every article, very much. And absolutely, it deserves that importance.
 
-In some difficult conditions, the writer would want to revert writings back to a previous state. Since Git generally only adds data, which means nothing is undoable, you can travel among these versions and never lose anything in almost any circumstances.
+In some difficult conditions, the writer would want to revert writings back to a previous state. Since Git generally only adds data, which means nothing is undoable, you can travel among these versions and never lose anything in almost any circumstances. To paraphrase a Git fans Peter Boothe, revision control are not there to save your old work. They're there to give you permission to throw that old work away. What I'm doing now, on some level, exempifies this function.
 
 What's worse, if some versions backuped in form of files are lost or screwed up, it is irreversible and disastrous.
 
@@ -20,6 +20,8 @@ What's worse, if some versions backuped in form of files are lost or screwed up,
 Normally every kind of Writing process contains several steps, for instance, five steps of college academic writing: prewriting, planning, drafting, revising & editing and making a final copy. These five points are specific and important in the process. We can tag those time points as snapshots right after finishing the step or later. Just as branches tags can be shared remotely on the server. 
 
 The process is not and hardly can be linear but interlaced. Sometimes students may have to brainstorm again at the fourth step of revising & editing, two steps after planing containing brainstorm. It's possible and acceptable. Then, here a problem occurs that if the previous snapshot is editable.
+
+For academia tagging is helpful. 
 
 1. log   
 With the help of the `log` function, users can better look back to see what has happened by viewing the commit history. Almost all details, including the commit message, SHA-1 checksum, author, and the email, the date written, are recorded and, later, can be easily searched and parsed by machine. 
@@ -30,12 +32,12 @@ By way of example, argument `--grep` lets us search for keywords in the commit m
 In this aspect, Git is versatile. Git can cut it no matter when you are searching contents of files, commit messages and diffs, whether text was added or removed, through a commit, thus resulting in pretty powerful process based and oriented supporting for the writer. It's process oriented because for the convenience of later examination the writer tends to make more commits, tags and so on to make every even small step checked in, which automatically forms an elaborate writing process history for every repository(essay).
 
 1. branching
-That's really a hack and the quintessential of every version control system(VCS). But rather than copying all of the project's files into an other directory, which may costs munites if the file size is very large, when branching like most older VCS tools, Git can accomplish the process as easy as copying 41 bytes. Then, branching is no longer a space and time consuming expense and can be employed almost at will when necessary.
+That's really a hack and the quintessential of every version control system(VCS), which also sets DVCS/Git apart from any other document sharing techniques including Wiki. But rather than copying all of the project's files into an other directory, which may costs munites if the file size is very large, when branching like most older VCS tools, Git can accomplish the process as easy as copying 41 bytes. Then, branching is no longer a space and time consuming expense and can be employed almost at will when necessary.
 
 When it's neccessary to branch? Situations are as following:
 1. Comment from coauther  
-When the writer needs to collaborate with others, he/she may branch to distribute the work for requiring comments. The comment from each coauther is committed on the corresponding branch, benefitting the writer to view and compare among them. It's also beneficial to branch when a mark is needed, it enables the writer to mark a certain timestamp first by branching using the cowriter's name who may not use Git and then commit the changes himself/herself, for instance.
-1. 
+When the writer needs to collaborate with others, he/she may branch to distribute the work for requiring comments. The comment from each coauther is committed on the corresponding branch, benefitting the writer to view and compare among them. It's also beneficial to branch when a mark is needed, it enables the writer to mark a certain timestamp first by branching using the cowriter's name who may not use Git and then commit the changes himself/herself, for instance. As an aside, if someone with whom you need to share your files is not a techie, you just need to copy one of any version from local or remote repository and share it. After his/her revision, you just need to checkout that version and copy that file back then commit. It acts as if you're collaborating on the same VCS platform.
+1.  
 
 
 # Wiki vs. Git
