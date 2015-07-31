@@ -30,6 +30,12 @@ By way of example, argument `--grep` lets us search for keywords in the commit m
 In this aspect, Git is versatile. Git can cut it no matter when you are searching contents of files, commit messages and diffs, whether text was added or removed, through a commit, thus resulting in pretty powerful process based and oriented supporting for the writer. It's process oriented because for the convenience of later examination the writer tends to make more commits, tags and so on to make every even small step checked in, which automatically forms an elaborate writing process history for every repository(essay).
 
 1. branching
+That's really a hack and the quintessential of every version control system(VCS). But rather than copying all of the project's files into an other directory, which may costs munites if the file size is very large, when branching like most older VCS tools, Git can accomplish the process as easy as copying 41 bytes. Then, branching is no longer a space and time consuming expense and can be employed almost at will when necessary.
+
+When it's neccessary to branch? Situations are as following:
+1. Comment from coauther  
+When the writer needs to collaborate with others, he/she may branch to distribute the work for requiring comments. The comment from each coauther is committed on the corresponding branch, benefitting the writer to view and compare among them. It's also beneficial to branch when a mark is needed, it enables the writer to mark a certain timestamp first by branching using the cowriter's name who may not use Git and then commit the changes himself/herself, for instance.
+1. 
 
 
 # Wiki vs. Git
