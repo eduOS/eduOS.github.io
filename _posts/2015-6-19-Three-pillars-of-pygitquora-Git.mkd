@@ -37,7 +37,11 @@ That's really a hack and the quintessential of every version control system(VCS)
 When it's neccessary to branch? Situations are as following:
 1. Comment from coauther  
 When the writer needs to collaborate with others, he/she may branch to distribute the work for requiring comments. The comment from each coauther is committed on the corresponding branch, benefitting the writer to view and compare among them. It's also beneficial to branch when a mark is needed, it enables the writer to mark a certain timestamp first by branching using the cowriter's name who may not use Git and then commit the changes himself/herself, for instance. As an aside, if someone with whom you need to share your files is not a techie, you just need to copy one of any version from local or remote repository and share it. After his/her revision, you just need to checkout that version and copy that file back then commit. It acts as if you're collaborating on the same VCS platform.
-1.  
+1. 
+
+1. Private and public branches 
+
+Being afraid of being scooped, 
 
 
 # Wiki vs. Git
