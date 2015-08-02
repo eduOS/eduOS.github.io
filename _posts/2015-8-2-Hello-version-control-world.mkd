@@ -1,0 +1,21 @@
+---
+layout: post
+title: Hello world
+tags: document management, VCS
+---
+
+Back in approximately 2011, four years ago, When I was an undergraduate, in Hunan, coding for the assignments, I thought revising, or say optimizing[parenthesis], the code I wrote was a best way to improve my programming skills. 
+
+That time, I didn't know the term of version control, which had a history of more than forty years, of which the first generation was RCS and SCCS; CVS the most popular client-server approach of centralized version control system for the previous generation; let alone the now widely used but the then 6 years old Git, the distributed version control system(DVCS) and almost a synonym when we mention version control[grammar]. Studying in Hunan, a central province of China, I completed[word] all the work which I loved to do by copying and pasting from file to file[term], just like many students and teachers still do today for their papers. They, and I years ago, name different editions by naming them accordingly, prepending or appending the finishing date to the file name. Or just an increasing number[term]. 
+
+Not only are these two working methods[term] time consuming, but they also cannot reflect the complexity and, on a hunk-by-hunk basis, process of the revising. By way of example, I write this blog 
+
+function 1: 
+
+function 2:
+
+
+
+...........................     
+Welcome proofreading help and language suggestions. Tons of thanks in advance.
+
