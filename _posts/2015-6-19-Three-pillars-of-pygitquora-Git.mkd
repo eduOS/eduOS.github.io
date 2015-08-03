@@ -21,7 +21,7 @@ Normally every kind of Writing process contains several steps, for instance, fiv
 
 The process is not and hardly can be linear but interlaced. Sometimes students may have to brainstorm again at the fourth step of revising & editing, two steps after planing containing brainstorm. It's possible and acceptable. Then, here a problem occurs that if the previous snapshot is editable.
 
-For academia tagging is helpful. 
+For academics tagging is helpful. 
 
 1. log   
 With the help of the `log` function, users can better look back to see what has happened by viewing the commit history. Almost all details, including the commit message, SHA-1 checksum, author, and the email, the date written, are recorded and, later, can be easily searched and parsed by machine. 
@@ -41,8 +41,10 @@ When the writer needs to collaborate with others, he/she may branch to distribut
 
 1. Private and public branches 
 
-Being afraid of being scooped, 
+Being cautious of being scooped, you may don't want to mix your thesis and some private posts with other blog posts that may be public. Makeing the unpublished publicly available carelessly and then being plagiarised is painful and regrettable. However some blog posts may be part of your thesis and you want to backup them under the same directory with materials and papers and thesis. In other cases, you may find it friendly to keep a beta version of your work where you need not to care too much about formatting, grammar, structure and etc. but write everything at will; and a stable version where you just fetch the stable version from the beta after several times of revising when necessary; and also a public version for your blog audience and versions for your supervisor and co-authors. All these are stored in and managed by a Git repository as a project. Very handy, isn't it?
 
+1. Offline and online branches
+Because of the distributed feature in nature, Git branches, private or public, are manageable equally both online and offline. All branches are initially offline and can be selectively, either on branch basis or on version-in-the branch basis, pushed into the cloud platform.
 
 # Wiki vs. Git
 When hearing Git assisted writing, anyone will ask why not Wiki? 
