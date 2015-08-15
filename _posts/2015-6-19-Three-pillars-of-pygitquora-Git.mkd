@@ -16,6 +16,8 @@ In some difficult conditions, the writer would want to revert writings back to a
 What's worse, if some versions backuped in form of files are lost or screwed up, it is irreversible and disastrous.
 
 # Features
+0. version control
+Instead of naming different versions by appending or prepending the "timestamp", the date only maybe, to the filename, versioning source the writing utilizing Git may make your life much easier. Take for example, [this one](www.phdcomics.com/comics/archive.php?comicid=1531).
 1. tag  
 Normally every kind of Writing process contains several steps, for instance, five steps of college academic writing: prewriting, planning, drafting, revising & editing and making a final copy. These five points are specific and important in the process. We can tag those time points as snapshots right after finishing the step or later. Just as branches tags can be shared remotely on the server. 
 
