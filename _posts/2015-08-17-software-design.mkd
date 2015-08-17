@@ -1,0 +1,11 @@
+---
+layout: post
+title: Super notebook version controlled by Git--design
+tags: design, DVCS, project
+---
+
+
+
+...........................     
+Welcome proofreading help and language suggestions. Tons of thanks in advance.
+
