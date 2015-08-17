@@ -1,10 +1,22 @@
 ---
 layout: post
 title: Super notebook version controlled by Git--design
-tags: design, DVCS, project
+tags: DVCS, SDLC
 ---
 
-
+Software Development Life Cycle(SDLC) activities:
+1. Communication
+On the network of question and answer website Stack Exchange, I navigate to the Software Recommendations beta community and start browsing all questions tagged git. Suddenly, I encounter a question pertaining to git-annex,  
+2. Requirement Gathering
+3. Feasibility Study
+4. System Analysis
+5. Software Design
+6. Coding
+7. Testing
+8. Integration
+9. Implementation
+10. Operations & Maintenance
+11. Disposition
 
 ...........................     
 Welcome proofreading help and language suggestions. Tons of thanks in advance.
