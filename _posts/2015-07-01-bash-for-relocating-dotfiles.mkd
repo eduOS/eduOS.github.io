@@ -1,0 +1,26 @@
+---
+layout: post
+title: Bash lines for relocating dotfiles
+tags: post, github
+---
+
+# Introduction
+A quick but dirty approach to manage configuration files via a version control system Git is making the whole home directory a Git repositor. It's dirty, because any repository in the home directory will follow the `~/.gitignore`, resulting in a lot of flaws as I met yesterday. So I need to relocate that file.
+
+# reference
+[Managing dot files with Git](http://blog.sanctum.geek.nz/managing-dot-files-with-git/)  
+
+# New knowledge
+1. `.git` directory  
+  The time I run `git init` under the root directory, Git creates the `.git` directory, which is where nearly every previous operation locates locally. Since Git has its integrity of never losing information, I'd like to keep everthing stored before. According to the aforementioned two reasons, I just directly moved the `.git` folder to the newly created subdirectory `.dotfile`. It turns out fine.  
+
+1. Symlink   
+  ```bash   
+  ln  -s source_file symlink_file  
+  ```
+
+  A symbolic link, also termed a soft link, is a special kind of file that does not contain the data of the target file to which it points. It's just like a shortcut in Windows. The links-dotfiles colored green under the root directory- play the same role as the source files which are moved to `.dotfile` when I invoke `<leader>ev` to edit the `.vimrc` file.
+
+...........................     
+Welcome proofreading help and language suggestions. Tons of thanks in advance.
+

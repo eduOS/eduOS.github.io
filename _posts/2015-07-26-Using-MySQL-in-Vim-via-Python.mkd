@@ -1,0 +1,91 @@
+---
+layout: post
+title: Utilizing Database in Vim via Python
+tags: vim, MySQL, Python
+---
+
+I'll show you a case which would to some basic extent exemplify the usage of how to utilize MySQL in Vim as you mentioned. The Python acts as the bridge.
+
+This is the vim file:    
+
+    :::viml    
+    "This line is for invoking the feature for only some particular filetypes as it will significantly reduce the loading speed. 
+    autocmd VimEnter *.txt call <SID>LoadFunction()
+    
+    function s:LoadFunction()
+    "switch to the version of Python you're using
+    if has('python')
+        command! -nargs=1 Python python <args>
+    elseif has('python3')
+        command! -nargs=1 Python python3 <args>
+    else
+        "make sure that the Vim has been compiled
+        echo "Error: Requires Vim compiled with +python or +python3"
+        finish
+    endif
+    
+    " Import Python code
+    execute "Python import sys"
+    execute "Python sys.path.append(r'" . expand("<sfile>:p:h") . "')"
+    
+    Python << EOF
+    if 'pythonmethod' not in sys.modules:
+        import pythonmethod
+    else:
+        import imp
+        # Reload python module to avoid errors when updating plugin
+        pythonmethod = imp.reload(pythonmethod)
+    EOF
+    
+    " set a map for the function which calls the scripts in Python file
+    nnoremap <leader>a :call <SID>Vimfunction()<cr>
+    " this is for disconnecting the datebase 
+    autocmd VimLeave * call <SID>CloseDB()
+    endfunction
+    
+    function! s:Vimfunction()
+        Python pythonmethod.main()
+    endfunction
+    
+    function! s:CloseDB()
+        Python pythonmethod.closedb()
+    endfunction
+    
+This is the Python file under the same directory.    
+
+    :::python    
+    import vim 
+    import MySQLdb as mdb
+
+    con = mdb.connect('serverName','userName',"password")
+    cur = con.cursor()
+    # check if the database and table exist, if not create them
+    # don't use create database/table if not exists databaseName/tableName, because a annoying warming message will occure if they already exist
+    if not cur.execute("show databases like 'databaseName'"):
+        cur.execute("CREATE DATABASE databaseName")
+    cur.execute("use databaseName")
+    if not cur.execute("show tables like 'tableName'"):
+        cur.execute("""CREATE TABLE tableName(\
+                id SMALLINT NOT NULL AUTO_INCREMENT PRIMARY KEY,\
+                word VARCHAR(100) NOT NULL)""")
+
+    def main():
+        # chose the word under the cursor and assign it to wd
+        # another way is to do it using vim script but passing arguments between is painful
+        wd = vim.eval('shellescape(expand("<cword>"))')
+        # another way to execute the file
+        vim.command('normal! dd')
+        # for example, insert something to database
+        sql = "INSERT INTO tableName (word) VALUES(%s)"
+        cur.execute(sql,(wd,))
+        con.commit()
+
+    def closedb():
+        cur.close()
+        con.close()
+
+Only a very simple example. HTH.
+
+...........................     
+Welcome proofreading help and language suggestions. Tons of thanks in advance.
+

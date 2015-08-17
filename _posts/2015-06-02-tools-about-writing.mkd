@@ -1,0 +1,16 @@
+---
+layout: post
+title: tools about writing
+tags: post, writing, tool 
+---
+
+1. [write-good](https://github.com/btford/write-good) is a tools for writers to check 'bad' writings.  
+1. So as [Academic-writing-check](https://github.com/devd/Academic-Writing-Check)  
+
+[Here](http://www.madebyloren.com/github-for-writers) is one article written by Loren, the creator of Penflip.  
+
+What I need to do is establishing a platform for english learners, including me, to improve their writing skills in a programming IDE-like environment. 
+
+...........................     
+Welcome proofreading help and language suggestions. Tons of thanks in advance.
+
