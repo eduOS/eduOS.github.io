@@ -25,29 +25,29 @@ The process is not and hardly can be linear but interlaced. Sometimes students m
 
 For academics tagging is helpful. 
 
-1. log   
+2. log   
 With the help of the `log` function, users can better look back to see what has happened by viewing the commit history. Almost all details, including the commit message, SHA-1 checksum, author, and the email, the date written, are recorded and, later, can be easily searched and parsed by machine. 
 
 By way of example, argument `--grep` lets us search for keywords in the commit messages; `-S`word allows us to search word following `-S` among removed or added changes. `--since`, `--after`, `--until` and `--before` are four options for limiting the commits of date.  
 
-What's more, to commit every time you make a fix, feature, or have a idea could log all the process you've made.
+What's more, to commit every time you make a fix, feature, or have a idea could document all the processes you've made.
 
-1. history exploring
+3. history exploring
 In this aspect, Git is versatile. Git can cut it no matter when you are searching contents of files, commit messages and diffs, whether text was added or removed, through a commit, thus resulting in pretty powerful process based and oriented supporting for the writer. It's process oriented because for the convenience of later examination the writer tends to make more commits, tags and so on to make every even small step checked in, which automatically forms an elaborate writing process history for every repository(essay).
 
-1. branching
+4. branching
 That's really a hack and the quintessential of every version control system(VCS), which also sets DVCS/Git apart from any other document sharing techniques including Wiki. But rather than copying all of the project's files into an other directory, which may costs munites if the file size is very large, when branching like most older VCS tools, Git can accomplish the process as easy as copying 41 bytes. Then, branching is no longer a space and time consuming expense and can be employed almost at will when necessary.
 
 When it's neccessary to branch? Situations are as following:
-1. Comment from coauther  
+5. Comment from coauther  
 When the writer needs to collaborate with others, he/she may branch to distribute the work for requiring comments. The comment from each coauther is committed on the corresponding branch, benefitting the writer to view and compare among them. It's also beneficial to branch when a mark is needed, it enables the writer to mark a certain timestamp first by branching using the cowriter's name who may not use Git and then commit the changes himself/herself, for instance. As an aside, if someone with whom you need to share your files is not a techie, you just need to copy one of any version from local or remote repository and share it. After his/her revision, you just need to checkout that version and copy that file back then commit. It acts as if you're collaborating on the same VCS platform.
 1. 
 
-1. Private and public branches 
+6. Private and public branches 
 
 Being cautious of being scooped, you may don't want to mix your thesis and some private posts with other blog posts that may be public. Makeing the unpublished publicly available carelessly and then being plagiarised is painful and regrettable. However some blog posts may be part of your thesis and you want to backup them under the same directory with materials and papers and thesis. In other cases, you may find it friendly to keep a beta version of your work where you need not to care too much about formatting, grammar, structure and etc. but write everything at will; and a stable version where you just fetch the stable version from the beta after several times of revising when necessary; and also a public version for your blog audience and versions for your supervisor and co-authors. All these are stored in and managed by a Git repository as a project. Very handy, isn't it?
 
-1. Offline and online branches
+7. Offline and online branches
 Because of the distributed feature in nature, Git branches, private or public, are manageable equally both online and offline. All branches are initially offline and can be selectively, either on branch basis or on version-in-the branch basis, pushed into the cloud platform.
 
 # Wiki vs. Git
