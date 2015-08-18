@@ -5,20 +5,9 @@ tags: git, writing
 ---
 
 # tranditional english writing teaching
-1. the history and reality
- triennial  The International Conference on ELT in China, 
-
-1. the causes
-    timing
-        national unified syllabus
-        examination system CET series
-        workload to revise
-    methods
-        don't konw process approaches to writing 
-        pay too much attention to revision and grammar but ignore the first three steps in the process
-    the lack of information knowledge
-        don't know how to incorporate computers and technology into instruction, only know Word and its autocorrection function and use Word to flag errors 
-        websites offering revise services: jukuu.com, pigai.com
+1. what are they doing
+    don't have time
+    totally ignore
 1. teaching methods
     no methods
     structure grammar and lexical problem
@@ -27,7 +16,7 @@ tags: git, writing
     too heavy burden to revise and grammar issues
         a story of mine english school teacher reguse to help when I say writing and no any more no purpose
     solution peer review and self review (totally what I want)
-1. situation varies depending on areas and contexts
+1. situation varies depending on areas and levels
     central china advanced areas shanghai foreign
     primary secondary and after secondary
 1. what they need
