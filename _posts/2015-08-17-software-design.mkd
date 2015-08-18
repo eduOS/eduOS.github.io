@@ -6,7 +6,9 @@ tags: DVCS, SDLC
 
 Software Development Life Cycle(SDLC) activities:
 1. Communication
-On the network of question and answer website Stack Exchange, I navigate to the Software Recommendations beta community and start browsing all questions tagged git. Suddenly, I encounter a question pertaining to git-annex,  
+How do Chinese English teachers instruct their students? I asked an English major for the real situation. 
+
+The fact is that seldom do teachers seriously offer such sources, hopefully only in China. Once in a blue moon if they do, they 
 2. Requirement Gathering
 3. Feasibility Study
 4. System Analysis
