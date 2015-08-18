@@ -1,0 +1,25 @@
+---
+layout: post
+title: Super notebook version controlled by Git--design
+tags: DVCS, SDLC
+---
+
+Software Development Life Cycle(SDLC) activities:
+1. Communication
+How do Chinese English teachers instruct their students? I asked an English major for the real situation. 
+
+The fact is that seldom do teachers seriously offer such sources, hopefully only in China. Once in a blue moon if they do, they 
+2. Requirement Gathering
+3. Feasibility Study
+4. System Analysis
+5. Software Design
+6. Coding
+7. Testing
+8. Integration
+9. Implementation
+10. Operations & Maintenance
+11. Disposition
+
+...........................     
+Welcome proofreading help and language suggestions. Tons of thanks in advance.
+
