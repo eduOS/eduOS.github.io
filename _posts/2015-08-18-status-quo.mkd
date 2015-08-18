@@ -4,9 +4,34 @@ title: The Status Quo of English Writing and Requirements
 tags: git, writing
 ---
 
-cause
+# tranditional english writing teaching
+1. what are they doing
+    don't have time
+    totally ignore
+1. teaching methods
+    no methods
+    structure grammar and lexical problem
+1. teacher's concern and workload
+    curriculum limitation
+    too heavy burden to revise and grammar issues
+        a story of mine english school teacher reguse to help when I say writing and no any more no purpose
+    solution peer review and self review (totally what I want)
+1. situation varies depending on areas and levels
+    central china advanced areas shanghai foreign
+    primary secondary and after secondary
+1. what they need
+    writing portfolio
+    revisor and proofreader
+    tutor for answering questions: stack exchange and quora
 
+# writing teaching in Web 2.0 (literature review)
+1. teaching methods
+1. tools they're employing
+1. wiki, blog, google docs(many startups are intending to over come its role in china, I heard from a enterprenuer)
+1. disadvantages and advantages
+1. 
 
+# why git is better
 
 ...........................     
 Welcome proofreading help and language suggestions. Tons of thanks in advance.
