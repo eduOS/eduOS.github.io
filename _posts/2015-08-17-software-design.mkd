@@ -10,6 +10,11 @@ How do Chinese English teachers instruct their students? I asked an English majo
 
 The fact is that seldom do teachers seriously offer such sources, hopefully only in China. Once in a blue moon if they do, they 
 2. Requirement Gathering
+1. limitations
+    citation
+    paper management mendeley
+equivalence
+see the [status quo and requirements](2015-08-18-status-quo.mkd)
 3. Feasibility Study
 4. System Analysis
 5. Software Design
