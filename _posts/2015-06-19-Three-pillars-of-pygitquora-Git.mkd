@@ -50,6 +50,9 @@ Being cautious of being scooped, you may don't want to mix your thesis and some 
 7. Offline and online branches
 Because of the distributed feature in nature, Git branches, private or public, are manageable equally both online and offline. All branches are initially offline and can be selectively, either on branch basis or on version-in-the branch basis, pushed into the cloud platform.
 
+# local repository file management
+On the network of question and answer website Stack Exchange, I navigate to the Software Recommendations beta community and start browsing all questions tagged git. Suddenly, I encounter a question pertaining to git-annex, a git based application which allows managing files with git, without checking the file contents into git.
+
 # Wiki vs. Git
 When hearing Git assisted writing, anyone will ask why not Wiki? 
 
