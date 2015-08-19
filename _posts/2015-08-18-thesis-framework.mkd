@@ -1,0 +1,41 @@
+---
+layout: post
+title: Thesis framework
+tags: post, github
+---
+
+# title
+English writing pedagogy based on distributed version control system and the software development
+# abstract
+# objectives
+Version control system, nowadays increasingly represented by the distributed version control system(DVCS for short) Git, is way better than Wiki based counterparts in education in different contexts.
+# introduction
+1. Wikis' limitations 
+1. runs in a manner intuitively consist with the process approach of writing pedagogy 
+1. in abroad some graduates and doctors have tried to harness version control system in their academic writing in education domain[academic exchange]; some professional writers also underpin the advise that employing Git can largely enable them to write efficiently. 
+1. in industrial field, I know a startup company is creating a Git based documentation system for the programmers
+1. version control system initially created for code management is increasingly adopted by non-techies, such as novelists, academia, students from all kinds of major backgrounds like philosophy, history and so on.
+1. Why don't we embrace this reletively new technology to utilize our writing in variant contexts whether college level or K12 level.
+# literature review
+1. the history and background of why wikis are so widely phased in in the last few decades.
+1. how has wiki been used by teachers and its future as expected by experts
+and so on as written in [this file](status-quo)
+# analysis and requirements
+pedagoy based on DVCS
+what each of five steps of the process approach writing pedagogy needs.
+# design
+this is the mian and core part
+# implementation
+part of the function
+# testing
+# tools and technologies
+editor  vim
+mangement latetex
+plugins vim-git, many others
+assist nltk
+# conclusion
+# appendices
+
+...........................     
+Welcome proofreading help and language suggestions. Tons of thanks in advance.
+
