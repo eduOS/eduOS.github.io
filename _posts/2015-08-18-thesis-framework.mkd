@@ -1,14 +1,17 @@
 ---
 layout: post
 title: Thesis framework
-tags: post, github
+tags: thesis, framework
 ---
 
 # title
 English writing pedagogy based on distributed version control system and the software development
+
 # abstract
+
 # objectives
 Version control system, nowadays increasingly represented by the distributed version control system(DVCS for short) Git, is way better than Wiki based counterparts in education in different contexts.
+
 # introduction
 1. Wikis' limitations 
 1. runs in a manner intuitively consist with the process approach of writing pedagogy 
@@ -16,24 +19,42 @@ Version control system, nowadays increasingly represented by the distributed ver
 1. in industrial field, I know a startup company is creating a Git based documentation system for the programmers
 1. version control system initially created for code management is increasingly adopted by non-techies, such as novelists, academia, students from all kinds of major backgrounds like philosophy, history and so on.
 1. Why don't we embrace this reletively new technology to utilize our writing in variant contexts whether college level or K12 level.
+
 # literature review
 1. the history and background of why wikis are so widely phased in in the last few decades.
+
 1. how has wiki been used by teachers and its future as expected by experts
 and so on as written in [this file](status-quo)
+
 # analysis and requirements
 pedagoy based on DVCS
 what each of five steps of the process approach writing pedagogy needs.
+
+A certain step of the writing approach presented by a certain version in the corresponding branch should be related to other versions caused by the original revision in other branches.
+
+By way of illustration, in the process of writing an essay in the drafting brand I conjure up a big idea that should be added and that results in restructuring the first process prewriting and then the subsequent processes becomes necessary,  then I come back to restructure the previous processes. But I cannot merge or rebase the chances happening in the prewriting branch to the planning and then to the drafting brand by replaying, given that hardly can the system manage such a chain automatically(three-way merge theory), so as the writer himself.
+
+If this should only be done manually, then a relationship between those versions on the same "level" should be marked using a certain way.
+
+This is one of the many concerns at the back of my mind. Other hard nuts including wiki vs. git, git combined with wiki, software design, finding the users are all tasks each of which cannot be tackled within a month at the least.
+
 # design
 this is the mian and core part
+wiki combined git
+
 # implementation
 part of the function
+core function 
+
 # testing
+
 # tools and technologies
 editor  vim
 mangement latetex
 plugins vim-git, many others
 assist nltk
 # conclusion
+
 # appendices
 
 ...........................     
