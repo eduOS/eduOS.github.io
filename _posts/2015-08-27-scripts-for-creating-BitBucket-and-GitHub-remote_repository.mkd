@@ -1,0 +1,60 @@
+Scripts for Creating repository on GitHub and GitLab.
+
+# Prerequisites
+* Unix-based operating system(OS X and Linux)
+* Git 2.4.x or later should be installed(git --version to confirm)
+* Aceess token generated from [GitHub](https://github.com/settings/tokens) and [GitLab](https://gitlab.com/profile/account).
+
+# Shorthand 
+  1. Run the following commands to create the repositories.
+  ```
+  `curl -u "$username:$token" https://api.github.com/user/repos -d '{"name":"'$repo_name'"}' > /dev/null 2>&1`
+  # replace $username $token by your GitHub username and the token; replace $repo_name by your awesome repository name.
+  `curl --header "PRIVATE-TOKEN:$token" -d "name=$repo_name" "https://gitlab.com/api/v3/projects" > /dev/null 2>&1`
+  # replace $token by the GitLab token and $repo_name by your awesome repository name.
+  ```
+  Here we used the API documented [here](doc.gitlab/ce/api/projects.html#create-project) for GitLab and [here](https://developer.github.com/v3/repos/#create) for GitHub.
+
+  2. Write a script to automate it.
+  Here is one of the most trivial yet life-changing insights stolen from [Sebastian Raschka](sebastianraschka.com): "If you have to do this task more than 3 times just write a script and automate it." I'd like to follow it defining a snippet of shell script for that.
+  Given that the differences in the degree of scripts will not affect your understanding since here, I'll just write the scripts for GitLab and note the counterpart for GitHub.
+  Define a function named `lab` here and append it to `~/.bash_profile`. If your default shell is zsh, `source ~/.bash_profile` in ~/.zshrc
+  ```
+  createrepo() {
+  repo_name=$1
+  curl --header "PRIVATE-TOKEN:$token" -d "name=$repo_name" "https://gitlab.com/api/v3/projects" > /dev/null 2>&1
+  echo "Remote repo $repo_name created."
+  }
+  ```
+  Then running `hubrepo test01` will create a remote repo named "test01".
+
+# Make the script robust and your life easier 
+  1. Configure the global/default and and local/accurate access
+    We can build two functions one named create_repo_for_GitHub and another create_repo_for_GitLab, but don't you think it's quite redundant? Consider that we want to access the default platform by ignoring the special settings and the particular platform in some circumstances and the reverse in some others. I don't know if there are other solutions better than what I'm talking about, but mine is not so bad.  
+    1. Configure the access token in `~/.gitconfig.private`.
+    ```
+    [git]
+        user = $username
+        token = $token
+    ```
+    To ensure those tokens are secret enough we make a private file for storing usernames creds and etc by connecting the two with a line in `~/.gitconfig`:
+    ```
+    [include]
+        path = ~/.gitconfig.private
+    ```
+    2. Get the $username and $token in script
+    ```
+    createrepo() {
+    repo_name=$1
+    username='git config git.user'
+    username='git config git.token'
+    curl --header "PRIVATE-TOKEN:$token" -d "name=$repo_name" "https://gitlab.com/api/v3/projects" > /dev/null 2>&1
+    echo "Remote repo $repo_name created."
+    }
+    ```
+
+  1. add the input check.
+
+  ```
+
+  ```

@@ -1,0 +1,34 @@
+For the old Git version you can just run `git push` as a shorthand instead of specifying the remote Git server and the local branch you're on. But for new verisons, at least 2.4.4 I'm using, it is forbidden.  
+
+This is the basic push command form: `git push <remote> <place>`. When you push Git totally ignores where we are checked out and which branch you're on. 
+
+By way of illustration, I'd like to post the following examples in various contexts, supposing that I'm on branch_1 as you are and using the Git 2.4.x on Linux. 
+
+**git push origin local_branch_2**
+This leads you to updating, if there is a branch_2 on origin, or creating, if not, the branch_2 remotely.
+
+**git push origin local_branch_2:remote_branch_3**
+As the previous one the above is also very self-referential. We push the local branch 2 to/to create the remote branch 3.
+
+**git push origin local_branch_2~:remote_branch_3**
+This time, we push only the commit of local branch 2 until its penultimate commit, saving the last commit. 
+
+In the log tree you'll see an origin/remote_branch_3 "branch" which acts just the same role as a local branch reminding you where it was the last time you push or pull or fetch to or from the origin remote server. 
+
+Now we change the origin parameter to show you the tricky functions. 
+
+Consider this: I've multiple accounts both on GitHub, for instance Git_origin and BitBucket, say BB_origin, and I want to push different branches from my local repository to them separately. 
+
+To begin with, I'd suggest you first generate two ssh keys by entering under the ~/.ssh/ directory:
+
+ssh-keygen -t rsa -C "1@email.com"
+ssh-keygen -t rsa -C "2@email.com"
+
+During this process I name the first key key1 and the second key2.
+
+Then add them:
+
+ssh-add ~/.ssh/key1
+ssh-add ~/.ssh/key2
+
+
