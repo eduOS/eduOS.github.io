@@ -18,7 +18,7 @@ Version control system, nowadays increasingly represented by the distributed ver
 1. in abroad some graduates and doctors have tried to harness version control system in their academic writing in education domain[academic exchange]; some professional writers also underpin the advise that employing Git can largely enable them to write efficiently. 
 1. in industrial field, I know a startup company is creating a Git based documentation system for the programmers
 1. version control system initially created for code management is increasingly adopted by non-techies, such as novelists, academia, students from all kinds of major backgrounds like philosophy, history and so on.
-1. Why don't we embrace this reletively new technology to utilize our writing in variant contexts whether college level or K12 level.
+1. Why don't we embrace this relatively new technology to utilize our writing in variant contexts whether college level or K12 level.
 
 # literature review
 1. the history and background of why wikis are so widely phased in in the last few decades.
@@ -27,7 +27,7 @@ Version control system, nowadays increasingly represented by the distributed ver
 and so on as written in [this file](status-quo)
 
 # analysis and requirements
-pedagoy based on DVCS
+pedagogy based on DVCS
 what each of five steps of the process approach writing pedagogy needs.
 
 A certain step of the writing approach presented by a certain version in the corresponding branch should be related to other versions caused by the original revision in other branches.
@@ -39,18 +39,28 @@ If this should only be done manually, then a relationship between those versions
 This is one of the many concerns at the back of my mind. Other hard nuts including wiki vs. git, git combined with wiki, software design, finding the users are all tasks each of which cannot be tackled within a month at the least.
 
 # design
-this is the mian and core part
+1. dictionary
+  * glean words while reading
+  * do practice to build sentences using the new obtained vocabulary
+  * provide details for the world produced by Wordnet
+  * review words in the context: excerpts and the whole passage
+  * search words according to tags and words in excerpts and sentences
+2. comment
+3. grammar and style
+4. hack/geek writing
+this is the main and core part
 wiki combined git
 
 # implementation
-part of the function
-core function 
+1. Git 2.6 with a unfriendly user interface: Vim
+1. part of the function
+1. core function 
 
 # testing
 
 # tools and technologies
 editor  vim
-mangement latetex
+management latetex
 plugins vim-git, many others
 assist nltk
 # conclusion
