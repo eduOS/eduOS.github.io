@@ -47,7 +47,7 @@ This is one of the many concerns at the back of my mind. Other hard nuts includi
   * search words according to tags and words in excerpts and sentences
 2. comment
 3. grammar and style
-4. hack/geek writing
+4. programmable/hack/geek writing
 this is the main and core part
 wiki combined git
 
