@@ -38,18 +38,30 @@ If this should only be done manually, then a relationship between those versions
 
 This is one of the many concerns at the back of my mind. Other hard nuts including wiki vs. git, git combined with wiki, software design, finding the users are all tasks each of which cannot be tackled within a month at the least.
 
-# design
+# design/readme
 1. dictionary
-  * glean words while reading
+  * glean words while reading 
+  <leader>v
   * do practice to build sentences using the new obtained vocabulary
   * provide details for the world produced by Wordnet
-  * review words in the context: excerpts and the whole passage
+  <leader>d
+  * review words in the context: excerpts and the whole passage in a new window, passages are pushed to Gitst
+  <leader>p
   * search words according to tags and words in excerpts and sentences
+  :Glookup anything
 2. comment
-3. grammar and style
+  * users can comment on every line by openning a preview window on the bottom
+  <leader>c
+  the location will be marked, revoke the comment when the cursor is in the sentence
+3. spell and grammar check and style
 4. programmable/hack/geek writing
+  * search for particular articles according to the description or tag
+  * skeleton for each step of process writing: [thesis creator](johnmcgarvey.com/apworld/student/thesiscreator.html)
+    At the beginning the buffer shows the step introduction and it will vanish when the writer presses i to go to the insert mode and a preview window appear for telling writers the current, the previous and the next step. You tell the system you've finished the step by pressing 'n' in the normal mode, going to the next step. At the same time this system automatically generates a commit, with the step name as the commit comment. If the writer need to revise the previous steps or jot down some hints for the subsequent steps then .. To be short, I'm searching for a intersection of Git and process approach of writing. The final version of the system can smartly assist the writing beginner write following the writing rules.
+  press n to 
 this is the main and core part
 wiki combined git
+    gollum
 
 # implementation
 1. Git 2.6 with a unfriendly user interface: Vim
