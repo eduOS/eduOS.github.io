@@ -1,0 +1,13 @@
+---
+layout: post
+title: Education background description
+tags: post, github
+---
+
+Being inspired by a lecture delivered by a doctor student, I thought distributed version control system(Git) can better facilitate EFL writing teaching than Wiki which has been excessively studied and employed in this domain, and dived into the water since then. 
+To polish my writing, I write on Quora and have completed two English-medium academic writing courses online, one with a grade of A. I'm also running an English blog hosted on GitHub, of which most branches, therefore most posts, are private for my master thesis. 
+As a diehard Vim addict, I do almost all my editting using Vim and have developed two runnable Vim plugins, also for the thesis. 
+
+...........................     
+Welcome proofreading help and language suggestions. Tons of thanks in advance.
+

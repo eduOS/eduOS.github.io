@@ -10,7 +10,7 @@ English writing pedagogy based on distributed version control system and the sof
 # abstract
 
 # objectives
-Version control system, nowadays increasingly represented by the distributed version control system(DVCS for short) Git, is way better than Wiki based counterparts in education in different contexts.
+Version control system, nowadays increasingly represented by the distributed version control system(DVCS for short) Git, is way better than Wiki based counterparts in education in a variety of contexts.
 
 # introduction
 1. Wikis' limitations 
