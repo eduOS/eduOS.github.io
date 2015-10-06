@@ -25,6 +25,7 @@ tags: post, github
 4. programmable/hack/geek writing
   * search for particular articles according to the description or tag
   * skeleton for each step of process writing: [thesis creator](johnmcgarvey.com/apworld/student/thesiscreator.html)
+
     At the beginning the buffer shows the step introduction and it will vanish when the writer presses i to go to the insert mode and a preview window appear for telling writers the current, the previous and the next step. You tell the system you've finished the step by pressing 'n' in the normal mode, going to the next step. At the same time this system automatically generates a commit, with the step name as the commit comment. If the writer need to revise the previous steps or jot down some hints for the subsequent steps then .. To be short, I'm searching for a intersection of Git and process approach of writing. The final version of the system can smartly assist the writing beginner write following the writing rules.
   press n to 
 this is the main and core part
