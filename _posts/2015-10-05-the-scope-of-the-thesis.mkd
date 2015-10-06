@@ -1,38 +1,29 @@
 ---
 layout: post
-title: add title here
-tags: post, github
+title: On the scope of my thesis
+tags: thesis, scope
 ---
 
 A process approach to EFL writing learning (or teaching) with support of open
 source tools: taking GIT as a sample
 
-Thanks & suggestions adopted 
-
+Thanks 
 Great. 
+
+two points: process writing, Git
+
 absolutely just one approach
 an approach to the approach
 
-Obviously, the title shown above can better highlight the learning process of writing
-which can be facilitated effectively and intuitively by the
-distributed version control system(DVCS). 
+EFL writing or just writing
+
+learning or instruction no teaching
 
 open source VS. Git is a risk management strategy
-
-But by adding open source tools I suppose you mean that open source software
-should also be discussed? Maybe in some detail?  Open source, which is
-absolutely what I've studied in depth and undisputedly plays an indispensable
-role in this study, seems kind of far-fetched or even unrelated to writing. In
-addition, Git here does not exist as a sample because I don't mean to
-generalize DVCS to any other system, let alone open source ones. Only Wiki, as
-planned, will be compared against. As aforementioned, you're sharing risk
-adding open source and lessing Git may further indicates that 
 
 Why you should feel free
 
 software development or design
-I totally agree with you that time gets tough for me to develop the software
-alone, but I can design the system first. 
 
 my thoughts
 So can I change it to 
