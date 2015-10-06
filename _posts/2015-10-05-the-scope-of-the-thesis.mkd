@@ -7,9 +7,17 @@ tags: post, github
 A process approach to EFL writing learning (or teaching) with support of open
 source tools: taking GIT as a sample
 
-Great. Obviously, your suggestion can better highlight the learning process of writing
+Thanks & suggestions adopted 
+
+Great. 
+absolutely just one approach
+an approach to the approach
+
+Obviously, the title shown above can better highlight the learning process of writing
 which can be facilitated effectively and intuitively by the
 distributed version control system(DVCS). 
+
+open source VS. Git is a risk management strategy
 
 But by adding open source tools I suppose you mean that open source software
 should also be discussed? Maybe in some detail?  Open source, which is
@@ -20,12 +28,25 @@ generalize DVCS to any other system, let alone open source ones. Only Wiki, as
 planned, will be compared against. As aforementioned, you're sharing risk
 adding open source and lessing Git may further indicates that 
 
+Why you should feel free
+
+software development or design
 I totally agree with you that time gets tough for me to develop the software
 alone, but I can design the system first. 
 
-So can I change it to A Process Approach to EFL Writing with Support of
-Distributed Version Vontrol 
+my thoughts
+So can I change it to 
+The process approach to EFL writing and learning
+learning from and about writing
+distributed version control-Git
+software design
+open source 
 
+questions
+
+A Process Approach to EFL Writing with Support of Distributed Version Vontrol 
+
+PS
 Here is the detailed explanation of the database, the hybrid of table-oriented
 database and object-oriented database approaches.
 https://www.kernel.org/pub/software/scm/git/docs/user-manual.html#the-object-database
