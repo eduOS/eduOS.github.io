@@ -38,6 +38,8 @@ In this aspect, Git is versatile. Git can cut it no matter when you are searchin
 4. branching
 That's really a hack and the quintessential of every version control system(VCS), which also sets DVCS/Git apart from any other document sharing techniques including Wiki. But rather than copying all of the project's files into an other directory, which may costs munites if the file size is very large, when branching like most older VCS tools, Git can accomplish the process as easy as copying 41 bytes. Then, branching is no longer a space and time consuming expense and can be employed almost at will when necessary.
 
+branch features Git to be a super system for repurposing your content for multiple audiences
+
 When it's neccessary to branch? Situations are as following:
 5. interrupt because of brainstorm
 I wrote an answer [here](http://stackoverlow.com/a/32118440/3552975)
