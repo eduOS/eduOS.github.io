@@ -8,34 +8,29 @@ A process approach to EFL writing learning (or teaching) with support of open
 source tools: taking GIT as a sample
 
 Thanks 
-Great. 
 
-two points: process writing, Git
+two key words: writing, Git / learning and technology
 
-absolutely just one approach
-an approach to the approach
+writing
+context: EFL writing
+method & theory foundation: a process approach to writing / process writing
 
-EFL writing or just writing
+education technology: optimize learning process / writing and learning
 
-learning or instruction no teaching
+only learning but no instruction nor teaching -> writing learning
 
-open source VS. Git is a risk management strategy
+Git
+sample or only / open source VS. Git 
+risk management strategy & how flexible it is? ? including design
 
-Why you should feel free
+the connection
+programming and writing
+the learning process of programming and writing
+method of imitative writing: difference between programming and writing
+open source writing
 
-software development or design
-
-my thoughts
-So can I change it to 
-The process approach to EFL writing and learning
-learning from and about writing
-distributed version control-Git
-software design
-open source 
-
-questions
-
-A Process Approach to EFL Writing with Support of Distributed Version Vontrol 
+conclusion
+An open source approach to learning EFL writing using Git and the software design
 
 PS
 Here is the detailed explanation of the database, the hybrid of table-oriented
