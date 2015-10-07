@@ -1,0 +1,78 @@
+Version control system: Git
+-------
+
+Rather than a result, writing is a process starting from prewriting to the final submission. 
+
+In this duration, many changes/versions are produced a/some particular of which would be recalled at a particular time point, in or after the process of writing. 
+
+Students search among revisions for keeping the steps of writing before finish the first edition.
+
+After the first edition, rewriting plays an essential role for an excellent essay. Ernest Hemingway said that, "I rewrote the ending of Farewell to Arms, the last page of it, 39 times before I was satisfied" to the question "How much rewriting do you do?" in a interview in 1956. 
+
+"To get the words right", in words Hemingway said in that interview aforementioned, which means the pursuit of clearness and exactness in writing, valued word, the unite of every article, very much. And absolutely, it deserves that importance.
+
+In some difficult conditions, the writer would want to revert writings back to a previous state. Since Git generally only adds data, which means nothing is undoable, you can travel among these versions and never lose anything in almost any circumstances. To paraphrase a Git fans Peter Boothe, revision control are not there to save your old work. They're there to give you permission to throw that old work away. What I'm doing now, on some level, exempifies this function.
+
+What's worse, if some versions backuped in form of files are lost or screwed up, it is irreversible and disastrous.
+
+# Features
+0. version control
+Instead of naming different versions by appending or prepending the "timestamp", the date only maybe, to the filename, versioning source the writing utilizing Git may make your life much easier. Take for example, [this one](www.phdcomics.com/comics/archive.php?comicid=1531).
+1. tag  
+Normally every kind of Writing process contains several steps, for instance, five steps of college academic writing: prewriting, planning, drafting, revising & editing and making a final copy. These five points are specific and important in the process. We can tag those time points as snapshots right after finishing the step or later. Just as branches tags can be shared remotely on the server. 
+
+The process is not and hardly can be linear but interlaced. Sometimes students may have to brainstorm again at the fourth step of revising & editing, two steps after planing containing brainstorm. It's possible and acceptable. Then, here a problem occurs that if the previous snapshot is editable.
+
+For academics tagging is helpful. 
+
+2. log   
+With the help of the `log` function, users can better look back to see what has happened by viewing the commit history. Almost all details, including the commit message, SHA-1 checksum, author, and the email, the date written, are recorded and, later, can be easily searched and parsed by machine. 
+
+By way of example, argument `--grep` lets us search for keywords in the commit messages; `-S`word allows us to search word following `-S` among removed or added changes. `--since`, `--after`, `--until` and `--before` are four options for limiting the commits of date.  
+
+What's more, to commit every time you make a fix, feature, or have a idea could document all the processes you've made.
+
+3. history exploring
+In this aspect, Git is versatile. Git can cut it no matter when you are searching contents of files, commit messages and diffs, whether text was added or removed, through a commit, thus resulting in pretty powerful process based and oriented supporting for the writer. It's process oriented because for the convenience of later examination the writer tends to make more commits, tags and so on to make every even small step checked in, which automatically forms an elaborate writing process history for every repository(essay).
+
+4. branching
+That's really a hack and the quintessential of every version control system(VCS), which also sets DVCS/Git apart from any other document sharing techniques including Wiki. But rather than copying all of the project's files into an other directory, which may costs munites if the file size is very large, when branching like most older VCS tools, Git can accomplish the process as easy as copying 41 bytes. Then, branching is no longer a space and time consuming expense and can be employed almost at will when necessary.
+
+branch features Git to be a super system for repurposing your content for multiple audiences
+
+When it's neccessary to branch? Situations are as following:
+5. interrupt because of brainstorm
+I wrote an answer [here](http://stackoverlow.com/a/32118440/3552975)
+
+5. Comment from coauther  
+When the writer needs to collaborate with others, he/she may branch to distribute the work for requiring comments. The comment from each coauther is committed on the corresponding branch, benefitting the writer to view and compare among them. It's also beneficial to branch when a mark is needed, it enables the writer to mark a certain timestamp first by branching using the cowriter's name who may not use Git and then commit the changes himself/herself, for instance. As an aside, if someone with whom you need to share your files is not a techie, you just need to copy one of any version from local or remote repository and share it. After his/her revision, you just need to checkout that version and copy that file back then commit. It acts as if you're collaborating on the same VCS platform.
+1. 
+
+6. Private and public branches 
+
+Being cautious of being scooped, you may don't want to mix your thesis and some private posts with other blog posts that may be public. Makeing the unpublished publicly available carelessly and then being plagiarised is painful and regrettable. However some blog posts may be part of your thesis and you want to backup them under the same directory with materials and papers and thesis. In other cases, you may find it friendly to keep a beta version of your work where you need not to care too much about formatting, grammar, structure and etc. but write everything at will; and a stable version where you just fetch the stable version from the beta after several times of revising when necessary; and also a public version for your blog audience and versions for your supervisor and co-authors. All these are stored in and managed by a Git repository as a project. Very handy, isn't it?
+
+7. Offline and online branches
+Because of the distributed feature in nature, Git branches, private or public, are manageable equally both online and offline. All branches are initially offline and can be selectively, either on branch basis or on version-in-the branch basis, pushed into the cloud platform.
+
+# local repository file management
+On the network of question and answer website Stack Exchange, I navigate to the Software Recommendations beta community and start browsing all questions tagged git. Suddenly, I encounter a question pertaining to git-annex, a git based application which allows managing files with git, without checking the file contents into git.
+
+# Wiki vs. Git
+When hearing Git assisted writing, anyone will ask why not Wiki? 
+
+In my opinion, Wiki is one-version- or standard-version- oriented, which means the end of writing is to approach a standard final submission. As aforementioned, we're really trying to meet that goal. Why is Wiki so widely harnessed in writing classes? Why can Wiki improve students' English ability(The effect of applying wikis in an English as a Foreign language class in Taiwan, Chen, 2008; Using Wiki-based peer-correction to develop writing of Brazilian EFL learners, Franco, 2008)? Let's see (Using a Wiki to scaffold primary-school students collaborative writing, M. Woo, S. Chu, 2011). 
+
+1. Exposing the learning in the  Internet, thus scaffolding students to evaluate and extract its resource. Zone of Proximal Development(ZPD).
+1. Transparency for sharing and peer review. In other words, students experience writing as a social process(Blogs, wikis prodcasts and other powerful web tools for classrooms, Richardson, 2006). It also waste less teacher's time on checking the writings(Wiki in the Academy, Higdon, 2006).
+1. As an After-class synergic platform.
+1. Teachers can view the revision of the writing with the help of Wiki's tracking system, and then can provide timely intervention. 
+
+As we can see, the first three affordances are pretty habitual for any kind of on-line editing platform. The fourth one mentioning tracking system, which is the unique function of Wiki compared to traditional and nowadays widely used MicroSoft Word, is also replaceable and even seems weak in front of Git.
+
+With the proven result that Wiki-based writing can improve student's writing skills, Git platforms, which not only can provide all those affordances Wiki has but also offer more advanced features, without any doubt can also function well in all situations they've tested for Wiki.
+
+# Question  
+1. The fundamental one is that if Git is irreplaceable. If it's, do I have any evidence? Are there any theoretical foundations? If not, why? What are the alternatives and what are their advantages and disadvantages?
+
+Process approach to EFL writing pedagogy and software development based on Distributed Version Control(DVC)
