@@ -4,33 +4,35 @@ title: On the scope of my thesis
 tags: thesis, scope
 ---
 
-A process approach to EFL writing learning (or teaching) with support of open
-source tools: taking GIT as a sample
-
 Thanks 
 
+A process approach to EFL writing learning (or teaching) with support of open
+source tools: taking GIT as a sample
+to
+An open source approach to learning EFL writing using Git and the software design
+
+education technology: technology optimizes learning process / learning writing 
 two key words: writing, Git / learning and technology
 
-writing
-context: EFL writing
-method & theory foundation: a process approach to writing / process writing
+# learning: process writing
+main point: learn to write [definition]
+context: EFL writing [comparison] with L1 writing
+method & theory foundation: a process approach / process writing [definition]
 
-education technology: optimize learning process / writing and learning
+# technology: process programming-Git
+open source [definition]
+how Git works [description]
+aside from programming, other uses [exposition]
 
-only learning but no instruction nor teaching -> writing learning
+# the connection: technology optimizes learning
+process <-> open source [definition & comparison]
+programming and writing [comparison]
+the learning process of programming and writing [process analysis]
+open source writing [definition]
+case showing how and why effective [description & persuation]
 
-Git
-sample or only / open source VS. Git 
-risk management strategy & how flexible it is? ? including design
-
-the connection
-programming and writing
-the learning process of programming and writing
-method of imitative writing: difference between programming and writing
-open source writing
-
-conclusion
-An open source approach to learning EFL writing using Git and the software design
+# conclusion
+future and questions
 
 PS
 Here is the detailed explanation of the database, the hybrid of table-oriented
