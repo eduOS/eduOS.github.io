@@ -1,0 +1,36 @@
+---
+layout: post
+title: Repository resource
+tags: writing, github
+---
+
+What I need is acturally any form of text source versioned using Git and written in English. So there are two elements: Git platform and English text. 
+
+For the former one, BitBucket can be just ignored because of its close source natural making me cannot fetch those writings; for the latter, text written by EFL writers are preferable, since they will revise more times than the native speakers, resulting in more versions and obvious progress in the process of time. 
+
+The next step is to find those guys who have the same hobby as me but are more generous than me to open source their repositories.
+
+Normally, I'll find more writings on technology, especially programming.
+
+issue
+--------
+Maybe the text in GitHub issue section is also research worthy.
+
+
+Blog list
+---------
+1. [Yi Tang](yitang.uk)
+Tang Yi is a statistician, programmer and data analyst. In one of his [comments](http://disq.us/8o2b9p) to a post on the importance of Englishto programmers he wrote that "I can relate to you since I've been working in British for more than a year, but communicating with colleagues is still a headache. On writing, I thought the fastest way to make a big process is write blog, in English. I started mine in Novernber 2014, and ever since I rewrite every post several times, which benefits me a lot. I hightly recommend you this way of writing and revising method." Yi Tang, most probably the owner of a GitHub blog, is a perfect subject. He is a Chinese, even though English is no longer a foreign language for him but a second language. His motivation of writing is in part and most importantly for improving English writing skills as he writes in his new blog "I have a simple goal: I want to write better. The best way to achieve it is to write a lot." 
+
+Unluckily, the first blog containing the emacs tutorial is owned by him but a Vietnamese.
+
+For those who write technical posts containing codes, I need to separate them apart, leaving only the text.
+
+1. [learnvimscriptthehardway](https://github.com/sjl/learnvimscriptthehardway)
+I learn Vim script by following this tutorial, finding that his wording is very native and vivid. As he is a native speaker he is not an appropriate option, but I want to know the process of his writing using version analysis to see if he paid much attention on writing.
+
+It seems not that easy to find many subjects who share the same interest with me and Tang Yi. 
+
+...........................     
+Welcome proofreading help and language suggestions. Tons of thanks in advance.
+
