@@ -28,17 +28,15 @@ process <-> open source [definition & comparison]
 programming and writing [comparison]
 the learning process of programming and writing [process analysis]
 an open source approach to learning EFL writing [definition]
-case showing how and why effective [description & persuation]
+use case illustrating why and how it's effective [description & persuation]
 
 # software design
-
 
 # conclusion
 future and questions
 
 PS
-Here is the detailed explanation of the database, the hybrid of table-oriented
-database and object-oriented database approaches.
+Here is the detailed description of the NoSQL database, the object database.
 https://www.kernel.org/pub/software/scm/git/docs/user-manual.html#the-object-database
 
 ...........................     
