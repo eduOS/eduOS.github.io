@@ -8,14 +8,21 @@ education technology: technology optimizes learning process / learning writing
 
 # title
 An open source approach to learning EFL writing using Git and the software design
+Technology-spported EFL writing learning: An open source approach
 
 # statement
-two key words: learning and technology / writing, Git 
+two key words: learning and technology / writing and Git 
 learning EFL writing in a process way * open source and Git = learning EFL writing in an open source way 
 
 # learning: process writing
 main point: *learn* to write [definition]
+    White(1981) in Nunan(2000): "Writing is not a natural acitvity. All physically and mentally normal people learn to speak a language. Yet all people have to be taught how to write."
+    [validation checking] [3] in real context: Pennington, Brock & Yue (1996), many others are listed in the first cited article
+    Atwell (1987) "the five step system of writing process"
+    [emphasis transfer from teaching grammar, extensive vocabulary and reading to writing] [1]
 context: EFL writing [comparison] with L1 writing
+    interlanguage grammar
+    [metalinguistic feedback / marking: ticking and very short comments(seen/good/well done/bad or thank you)] [2]
 method & theory foundation: a process approach / process writing [definition]
 
 # technology: process programming-Git
@@ -27,7 +34,19 @@ aside from programming, other uses [exposition]
 process <-> open source [definition & comparison]
 programming and writing [comparison]
 the learning process of programming and writing [process analysis]
+    [writing theories] [4]
+        theory of frequency
+        grammatical theory
+        error correction theory
+        building blocks theory
+    what's the importance of viewing the programming process in Git history? is it in agreement with learning writing? process is to writing as history is to programming?
 an open source approach to learning EFL writing [definition]
+    the way of structuring a writing: the value of the history
+the process approach
+    prewriting
+    composing
+        free-writing or collaborative work
+    Anthony (2005) [says] [5] that core activity in process writing is the multiple-draft open-ended writing task
 use case illustrating why and how it's effective [description & persuation]
 
 # software design
@@ -39,6 +58,11 @@ PS
 Here is the detailed description of the NoSQL database, the object database.
 https://www.kernel.org/pub/software/scm/git/docs/user-manual.html#the-object-database
 
+reference
+[1,2]: The innovated writing process (IWP) approach: a rebuttal to truscott's (1996 1999, and 2007) and Ellis's (2009) view "the situation in China is the same as in other countries such as in Arab countries mentioned in the paper"
+[3]: explaining how hong kong students' response to process writing: an exploration of causes and outcomes
+[4]: the writing process in action. a handbook for teachers. illinois: national council of teachers of english
+[5]: process writing and communicative-task based instruction: many common features but more common limitations?
 ...........................     
 Welcome proofreading help and language suggestions. Tons of thanks in advance.
 
