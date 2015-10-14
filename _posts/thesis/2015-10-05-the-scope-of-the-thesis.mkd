@@ -7,7 +7,6 @@ tags: thesis, scope
 education technology: technology optimizes learning process / learning writing 
 
 # title
-An open source approach to learning EFL writing using Git and the software design
 Technology-spported EFL writing learning: An open source approach
 
 # statement
@@ -17,6 +16,7 @@ learning EFL writing in a process way * open source and Git = learning EFL writi
 # learning: process writing
 main point: *learn* to write [definition]
     White(1981) in Nunan(2000): "Writing is not a natural acitvity. All physically and mentally normal people learn to speak a language. Yet all people have to be taught how to write."
+    [most successfull pedagogical reform] [6]
     [validation checking] [3] in real context: Pennington, Brock & Yue (1996), many others are listed in the first cited article
     Atwell (1987) "the five step system of writing process"
     [emphasis transfer from teaching grammar, extensive vocabulary and reading to writing] [1]
@@ -63,6 +63,8 @@ reference
 [3]: explaining how hong kong students' response to process writing: an exploration of causes and outcomes
 [4]: the writing process in action. a handbook for teachers. illinois: national council of teachers of english
 [5]: process writing and communicative-task based instruction: many common features but more common limitations?
+[6]: Matsuda 2003 process and post-process: a discursive history
+
 ...........................     
 Welcome proofreading help and language suggestions. Tons of thanks in advance.
 
