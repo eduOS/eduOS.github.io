@@ -4,15 +4,15 @@ title: add title here
 tags: post, github
 ---
 
-I encounter some troublesome problems and hope that you can spare a
-few minutes to help me. Firstly, I gave up learning statistics but now want
-to resume it. Secondly, could you please give me any ideas which may
-help me find a co-researcher or anyone who would give me some advices on my
-master thesis? Last, I don't know whether a PHD suits me or not and if I
-should get it from another major years later.
+I encounter some troublesome problems and hope that you can spare a few minutes
+to help me a bit. Firstly, I gave up learning statistics but now want to resume
+it. Secondly, could you please give me any ideas which may help me find a
+co-researcher or anyone who would give me some advices on my master thesis?
+Last, I don't know how I can complete my current study before I graduate next
+year.
 
-I got stucked in the Chapter 1, Section 3 of the r_workshop when I met a
-table which shows many R "names". It reminds me that I had never studied
+I got stucked in the Chapter 1, Section 3 of the r_workshop when I met a table
+which shows many R "names". It reminds me that I had never studied
 mathematical statistics so I should learn it first. I searched the Edx
 and Coursera for statistics courses and finally chose the Stat2.x series
 produced by Berkeley University on Edx. Unfortunately, I'm so stupid
@@ -33,7 +33,7 @@ a writing class in Global Education delievered by a famous IELTS wring
 teacher, only to find that he just taught writing the same way as my
 teacher did in the high school using product-oriented approach and
 without any technological assistance. I think there should be a big
-difference being made. But I'm taking a risk as Prof. Zhu once pined that
+difference being made. But I'm taking a risk as Prof. Zhu once opined that
 I may fail to graduate. To prevent such a disaster happening I've allocated
 almost all my time to my master thesis. I thought should I have your
 guidance to learn the statistics in a more efficient way I would
@@ -43,23 +43,18 @@ aforementioned, could you please let me know and then I can reach out to
 him/her? Thanks a lot in advance. 
 
 Too stupid and asocial as I am, I have been failing since I went to here
-the first day. I've not published a single paper, although several good
+the first day.  
+
+I've not published a single paper, although several good
 opportunities were once given. I missed them all and they will never come
 back as water under the bridge. What's worse, as a byproduct never will
 teachers trust me and expect anything from me again. I've no working
 experience and don't know what I may be capable at. The only two, if not
 more, occupations I'm familiar with are teacher and researcher. I don't
 want to be a teacher nor am I competent to be a researcher. Viewed from
-a different perspective, my shortcomings may be my most likely
+a different perspective, my shortcomings may be my likely
 occupations in the future since so far no evidence has shown that other
-jobs suit me better. Here I want to ask you for a frank and blunt
-answer. Can I be a successful professor in the future if I try my best?
-If I get hit with a "no" or "don't know". I'll start searching for a job as
-a programmer with no any hesitation, and then try to emigrate to Australia
-as soon as I can. If your answer is yes then please tell me what kind
-of job should I search for given that I cannot apply for being a doctor
-after graduation. 
-
+jobs suit me better. 
 
 ...........................     
 Welcome proofreading help and language suggestions. Tons of thanks in advance.
