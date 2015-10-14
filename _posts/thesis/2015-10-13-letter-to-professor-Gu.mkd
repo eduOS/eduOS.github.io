@@ -1,14 +1,14 @@
 ---
-layout: post
-title: add title here
+layout: email
+title: Suggestions needed on learning statistics
 tags: post, github
 ---
+Dear Professor Gu,
 
 I encounter some troublesome problems and hope that you can spare a few minutes
 to help me a bit. Firstly, I gave up learning statistics but now want to resume
 it. Secondly, could you please give me any ideas which may help me find a
 co-researcher or anyone who would give me some advices on my master thesis?
-Last, I don't know how I can complete my current study by the due time.
 
 I got stucked in the Chapter 1, Section 3 of the r_workshop when I met a table
 which shows many R "names". It reminded me that I had never studied mathematical
@@ -39,21 +39,13 @@ just if, you happenly know someone who may be researching on what I'm doing as
 aforementioned, could you please let me know and then I can reach out to
 him/her? Thanks a lot in advance. 
 
-Too stupid and asocial, I have been failing since I went to here the first day.
-Now it rehappens. Originally I determined to create a software based on an open
-source/process approach to EFL writing but now should unwillingly repurpose it
-in order to get the master's degree. Two ways, in my mind, that would help me
-achieve my goal are 1) to find a job/internship in a company; and 2) to further
-my study in a university under a supervisor who may be interested in the
-research direction. For the first option, I've been searching for a long time
-but only to find all are in abroad, such as GitHub, Penflip, Prose, and etc. I
-should have dropped them a line applying for a post. But I dared not. Now
-I should begin. 
+The above may seem naive to you but please just point me in the right
+direction.  
 
-I've not published a single paper, although several good opportunities were
-once given. I missed them all and they will never come back as water under the
-bridge. What's worse, as a byproduct never will teachers trust me and expect
-anything from me again. 
+Thanks for your time and attention. 
+
+Best regards,
+Leo
 
 ...........................     
 Welcome proofreading help and language suggestions. Tons of thanks in advance.
