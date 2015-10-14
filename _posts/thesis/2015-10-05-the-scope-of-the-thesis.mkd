@@ -4,8 +4,6 @@ title: On the scope of my thesis
 tags: thesis, scope
 ---
 
-education technology: technology optimizes learning process / learning writing 
-
 # title
 Technology-spported EFL writing learning: An open source approach
 
@@ -24,6 +22,14 @@ context: EFL writing [comparison] with L1 writing
     interlanguage grammar
     [metalinguistic feedback / marking: ticking and very short comments(seen/good/well done/bad or thank you)] [2]
 method & theory foundation: a process approach / process writing [definition]
+context: EFL writing
+problem analysis for EFL teaching in China
+process writing
+absence and the serious consequences: [Test taker performance 2011] (http://www.ielts.org/researchers/analysis_of_test_data/test_taker_performance_2011.aspx) shows the grade of chinese writing is about 5.2 in average
+investigating and models, core elements and the connection
+possibility, necessity, runability: steps and the respective functions
+use case analysis
+summary & reflections 
 
 # technology: process programming-Git
 open source [definition]
