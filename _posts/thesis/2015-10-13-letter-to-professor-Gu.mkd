@@ -3,6 +3,7 @@ layout: email
 title: Suggestions needed on learning statistics
 tags: post, github
 ---
+
 Dear Professor Gu,
 
 I encounter some troublesome problems and hope that you can spare a few minutes
@@ -11,36 +12,37 @@ it. Secondly, could you please give me any ideas which may help me find a
 co-researcher or anyone who would give me some advices on my master thesis?
 
 I got stucked in the Chapter 1, Section 3 of the r_workshop when I met a table
-which shows many R "names". It reminded me that I had never studied mathematical
-statistics so I should learn it first. I searched the Edx and Coursera for
-statistics courses and finally chose the Stat2.x series produced by Berkeley
-University on Edx. Unfortunately, I'm so stupid that it took me much more time
-as I expected to finish the first course (Stat2.1x) of the triple. I was
-frustrated too much to continue the rest two. Two weeks ago or earlier I found
-and borrowed a book titled Statistics Explained (Third edition) written by
-Perry R. Hinton in the library but have read only a little due to its
-difficulty and the time limitation. With the time limitation, it relates to my
-second question or concern.
+which shows many R "names". It reminded me that I had never studied
+mathematical statistics, so I should learn it first. I searched and explored
+the Edx and Coursera for statistics courses and finally chose the Stat2.x
+series produced by Berkeley University on Edx. Unfortunately, I'm so stupid
+that it took me much more time as I expected to finish the first course
+(Stat2.1x) of the triplet. I was frustrated too much to continue the rest two.
+Two weeks ago or earlier I found and borrowed a book titled Statistics
+Explained (Third edition) written by Perry R. Hinton in the library but have
+read only a little due to its difficulty and the time limitation. With the time
+limitation, it relates to my second question or concern.
 
 I'm trying to figure out how to facilitate English as a Foreign Language (EFL)
 process writing using open source tools; now only distributed version control
-system like Git has been focused on given my limited horizontal. You know,
-among many countries where English is being taught as a foreign language,
-Chinese students behave the worse, especially in writing part. And I have taken
-a writing class in Global Education delievered by a famous IELTS wring teacher,
+system like Git has been focused on given my limited horizons. You know, among
+many countries where English is being taught as a foreign language, Chinese
+students behave the worse, especially in writing part. And I have taken a
+writing class in Global Education delivered by a famous IELTS wring teacher,
 only to find that he just taught writing the same way as my teacher did in the
 high school using product-oriented approach and without any technological
-assistance. I think there should be a big difference being made. But I'm taking
-a risk as Prof. Zhu once opined that I may fail to graduate. To prevent such a
-disaster happening I've allocated almost all my time to my master thesis. I
-thought should I have your guidance to learn the statistics in a more efficient
-way I would contribute to your studies in the near future sooner. If, yeah,
-just if, you happenly know someone who may be researching on what I'm doing as
-aforementioned, could you please let me know and then I can reach out to
-him/her? Thanks a lot in advance. 
+assistance, barring MS Word. I think there should be a big difference being
+made. But I'm taking a risk as Prof. Zhu once opined that I may fail to
+graduate. To prevent such a disaster happening I've allocated almost all my
+time to my master thesis. I thought should I have your guidance to learn the
+statistics in a more efficient way I would contribute to your studies in the
+near future sooner. If, yeah, just if, you may happen to know someone who is
+researching on what I'm doing as aforementioned, could you please let me know
+and then I can reach out to him/her? Thanks a lot in advance. If not, that's
+OK, because I'm making efforts myself.
 
-The above may seem naive to you but please just point me in the right
-direction.  
+The above may seem naive and partly wrong or inappropriate to you but please
+just point me in the right direction if at all possible.  
 
 Thanks for your time and attention. 
 
