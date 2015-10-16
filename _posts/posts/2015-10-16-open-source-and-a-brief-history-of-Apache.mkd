@@ -1,0 +1,39 @@
+---
+layout: post
+title: Open source and a brief history of Apache
+tags: open source, Apache
+---
+
+# Apache
+## What is Apache
+    The Apache HTTP Server Project is a collaborative software development effort aimed at creating a robust, commercial-grade, featureful, and freely-available source code implementation of an HTTP (Web) server.
+
+## Milestone
+    1. In February of 1995, the most popular server software on the Web was the public domain HTTP daemon developed by Rob McCool at the National Center for Supercomputing Applications, University of Illinois, Urbana-Champaign. 
+    2. Using NCSA httpd 1.3 as a base, we added all of the published bug fixes and worthwhile enhancements we could find, tested the result on our own servers, and made the first official public release (0.6.2) of the Apache server in April 1995. 
+    3. During May-June 1995, while Rob Hartill and the rest of the group focused on implementing new features for 0.7.x (like pre-forked child processes) and supporting the rapidly growing Apache user community, Robert Thau designed a new server architecture (code-named Shambhala) which included a modular structure and API for better extensibility, pool-based memory allocation, and an adaptive pre-forking process model. The group switched to this new server base in July and added the features from 0.7.x, resulting in Apache 0.8.8 (and its brethren) in August.
+    4. After extensive beta testing, many ports to obscure platforms, a new set of documentation (by David Robinson), and the addition of many features in the form of our standard modules, Apache 1.0 was released on December 1, 1995.
+    5. Less than a year after the group was formed, the Apache server passed NCSA's httpd as the #1 server on the Internet and according to the survey by Netcraft , it retains that position today.
+    6. In 1999, members of the Apache Group formed the Apache Software Foundation to provide organizational, legal, and financial support for the Apache HTTP Server. The foundation has placed the software on a solid footing for future development, and greatly expanded the number of Open Source software projects, which fall under this Foundation's umbrella.
+
+## Apples to apples
+    MS
+    Nginx
+
+# Open source 
+## Apache and Open Source
+why free vs. free of charge: free software as in free speech, not free beer
+free vs. commercial-grade
+how to get involved
+    Github
+    zhuangbiaowei, how to learn programming using Open Source
+    Git and Vim
+        plugins
+            multi account
+            gist
+            git issue
+    Git and process writing
+
+...........................     
+Welcome proofreading help and language suggestions. Tons of thanks in advance.
+
