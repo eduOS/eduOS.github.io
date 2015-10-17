@@ -24,15 +24,26 @@ tags: open source, Apache
 ## Apache and Open Source
 why free vs. free of charge: free software as in free speech, not free beer
 free vs. commercial-grade
+
+## open source in Education
+open education
+    OERs
+    publish
+
 how to get involved
-    Github
     zhuangbiaowei, how to learn programming using Open Source
+    Github + GitLab/BitBucket
     Git and Vim
         plugins
             multi account
             gist
             git issue
+
+## open source approach to writing
+open source learning
+    writing as programming
     Git and process writing
+        five steps
 
 ...........................     
 Welcome proofreading help and language suggestions. Tons of thanks in advance.
