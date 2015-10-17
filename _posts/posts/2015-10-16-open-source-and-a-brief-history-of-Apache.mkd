@@ -29,17 +29,21 @@ free vs. commercial-grade
 open education
     OERs
     publish
+    CS classes: teachers_pet
 
 how to get involved
     zhuangbiaowei, how to learn programming using Open Source
     Github + GitLab/BitBucket
     Git and Vim
+        Git
+            pocelain & plumbing
         plugins
             multi account
             gist
             git issue
 
 ## open source approach to writing
+Gitify your life
 open source learning
     writing as programming
     Git and process writing
