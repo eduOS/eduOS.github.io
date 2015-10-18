@@ -1,0 +1,34 @@
+---
+layout: email
+title: asking for any suggestions
+tags: post, github
+---
+
+Dear Dale,
+
+I'm Leo, a master student at East China Normal University (ECNU, for short),
+Shanghai, China.
+
+I've read your answer about editing and version control on Stack Exchange and
+been inspired a lot. 
+
+Since the answer was asked more than two years ago, I'm writing to you for
+asking if you are still writing finction with the help of version control, or
+more pricesely distributed version control system. And how do harness it
+differently and more efficiently? Do you think Git is the best choice? If not
+which one do you think is the best?
+
+For myself, the first time I knew GitHub I loved it and have been "gitifying my
+life", in Richard Hartmann's words. Using GitHub on browser is not that
+powerful as being used using command line, so I downloaded the GitHub Window
+client and self learnt some frequently used Git pocelain commands under the
+help of which I can version control my source code in a efficient way. As a
+normally Window user, I was not satisfied with just the virtual environment.
+
+Now I tend to harness the awesome tool to ulitize the process of writing in
+teaching contaxt. One concern is that Git is kind of user-unfriendly for most
+nontechnical users. 
+
+...........................     
+Welcome proofreading help and language suggestions. Tons of thanks in advance.
+
