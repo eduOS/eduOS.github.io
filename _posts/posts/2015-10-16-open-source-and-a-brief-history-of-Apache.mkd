@@ -22,6 +22,7 @@ tags: open source, Apache
 
 # Open source 
 ## Apache and Open Source
+how they survive: fundation, donation(direction)
 why free vs. free of charge: free software as in free speech, not free beer
 free vs. commercial-grade
 
@@ -33,6 +34,8 @@ open education
 
 how to get involved
     zhuangbiaowei, how to learn programming using Open Source
+        1. 
+        2. 
     Github + GitLab/BitBucket
     Git and Vim
         Git
