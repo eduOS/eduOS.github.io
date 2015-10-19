@@ -1,0 +1,21 @@
+---
+layout: email
+title: What I can do for you and what I need
+tags: internship, software engineer
+---
+
+Dear Mr. Zhang,
+
+I can work seamlessly with collaborators using Git 
+I can work in Linux environment, I've worked firstly using CentOS and later Ubuntu for about two years
+I can use Vim and have created two plugins
+I can read English documentation 
+I know how to raise a technical question on Stack Overflow when encountering a question or error
+I use Python and C
+
+
+anything related to programming
+
+...........................     
+Welcome proofreading help and language suggestions. Tons of thanks in advance.
+
