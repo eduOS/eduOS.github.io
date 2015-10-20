@@ -16,41 +16,63 @@ tags: open source, Apache
     5. Less than a year after the group was formed, the Apache server passed NCSA's httpd as the #1 server on the Internet and according to the survey by Netcraft , it retains that position today.
     6. In 1999, members of the Apache Group formed the Apache Software Foundation to provide organizational, legal, and financial support for the Apache HTTP Server. The foundation has placed the software on a solid footing for future development, and greatly expanded the number of Open Source software projects, which fall under this Foundation's umbrella.
 
-## Apples to apples
-    MS
-    Nginx
-
 # Open source 
 ## Apache and Open Source
-how they survive: fundation, donation(direction)
 why free vs. free of charge: free software as in free speech, not free beer
 free vs. commercial-grade
+how they survive: fundation, donation(direction)
 
 ## open source in Education
-open education
+* open education
     OERs
+        consume
+        produce
+    open source learning
     publish
-    CS classes: teachers_pet
 
-how to get involved
+* how to get involved
     zhuangbiaowei, how to learn programming using Open Source
-        1. 
-        2. 
+        step 1. 
+        step 2. 
     Github + GitLab/BitBucket
     Git and Vim
+        CS classes: teachers_pet
         Git
-            pocelain & plumbing
+            pocelain 
+                branch
+                rebase
+                cherry pick
+                stash
+            plumbing
+                blob
+                tree
         plugins
             multi account
             gist
             git issue
+            mutt
 
-## open source approach to writing
-Gitify your life
-open source learning
-    writing as programming
-    Git and process writing
-        five steps
+## version control and text-based field
+* text mark language
+    markdown
+
+* Apples to Apples
+    Git vs. Word
+    Word: "Track Changes" feature similar to a single-branch version control system
+    pandoc: .docx -> markdown
+
+* Wiki
+    
+
+* usages
+    blog
+    journal
+    politics
+    law
+    books: GitBook
+
+* advantages 
+    multidimensional version control: subdirectory and branch and fork
 
 ...........................     
 Welcome proofreading help and language suggestions. Tons of thanks in advance.
