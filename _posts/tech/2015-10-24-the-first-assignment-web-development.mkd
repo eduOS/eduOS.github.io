@@ -6,8 +6,13 @@ tags: intern, web
 
 # assignment
 1. http-protocol communication
+    
 2. express(web) and q(asynchronous I/O: promise)
 3. es6
+
+# resources
+1. nodejs.org/en/docs
+2. expressjs.com
 
 ...........................     
 Welcome proofreading help and language suggestions. Tons of thanks in advance.
