@@ -1,0 +1,14 @@
+---
+layout: post
+title: web development: http-protocol communication and session mechanism
+tags: intern, web
+---
+
+# assignment
+1. http-protocol communication
+2. express(web) and q(asynchronous I/O: promise)
+3. es6
+
+...........................     
+Welcome proofreading help and language suggestions. Tons of thanks in advance.
+
