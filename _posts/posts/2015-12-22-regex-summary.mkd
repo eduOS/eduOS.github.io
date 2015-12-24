@@ -35,28 +35,15 @@ Mainly, I was doing three tasks namely crawling data, parsing it and extracting 
 0. Many attributes in the ticket file are ambiguous and indescriptively-named   
     In this part I'll detail two files we get through the APIs.
     When it comes to the stops file, it's not that complex.
-<script src="https://gist.github.com/eduOS/6c1b06377c68e5d35fdd.js"></script>
 
-"arrive_time":"13:21",
-"station_name":"上海虹桥",
-"start_time":"13:21",
-"stopover_time":"----",
-"station_no":"10",
-"isEnabled":true,
-"messages":[],
-"validateMessages":{}
-"arrive_time":"13:21",
-"station_name":"上海虹桥",
-"start_time":"13:21",
-"stopover_time":"----",
-"station_no":"10",
-"isEnabled":true,
-"messages":[],
-"validateMessages":{}
+<script src="https://gist.github.com/6c1b06377c68e5d35fdd"></script>
 
-<script src="https://gist.github.com/3ff8811f66a507a559e8.js"></script>
-<script src="https://gist.github.com/3ffdcd869b4a159b2d36.js"></script>
- 
+<script src="https://gist.github.com/8e2a1f66b79f0cb131d4"></script>
+
+<script src="https://gist.github.com/3ff8811f66a507a559e8"></script>
+
+<script src="https://gist.github.com/3ffdcd869b4a159b2d36"></script>
+
     Write [a scrit](clearcompare.py) to clear up the ticket file.
    
 # Extracting   
