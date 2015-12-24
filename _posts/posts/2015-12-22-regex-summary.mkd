@@ -1,0 +1,99 @@
+---      
+layout: note      
+title: On the Python regex      
+tags: regex, Python      
+---      
+      
+Mainly, I was doing three tasks namely crawling data, parsing it and extracting parameters from short queries (natural language queries) during last month. As an aside, having never thought of employing regex in the domain of Natural Language Processing (NLP for short) professionally, I learned that regex helps a lot so far while cleaning the content and extracting parameters from text.    
+   
+# Crawling   
+0.	Crawling data from 12306 official website.      
+    Our goal: dump all data we need for later querying, locally the best, or remotely if necessary, and work out our updating stratagy. The less and more reseanable query times towards 12306 directly the better, on condition and ensuring that our local data is the latest.     
+    Firstly, I managed to dig out two URLs of two JSON files (not JSON precisely, but can be transfered easily into a JSON), the stops quering API and the ticket quering API using Firefox Inspect Element described as follows:      
+        1. https://kyfw.12306.cn/otn/resources/js/framework/station_name.js
+        This JSON file covers all stations' name in China in the form of "@bjb|北京北|VAP|beijingbei|bjb|". This snippet contains one station's various names including the start mark (@bjb), Chinese name (北京北), station telecode (VAP), full Pinyin of the station name (beijingbei) and the Pinyin abbreviation (bjb). In my experience, the Pinyin names are useless.          
+        2. https://kyfw.12306.cn/otn/resources/js/framework/station_name.js
+        From this JSON file on, things become complicated. After cutting off the first 16 caracters left the JSON in this form: {"2016-01-31":{"D":["station_train_code":"D1(北京-沈阳)", "train_no":"24000000D10R"]}}. Despite some intuitively and descriptively named keys and values, I want to note that the upcased caracters or numbers or both represent train type, here "动车" for instance. As I dig this file deeper I find that all trains running everyday are listed in, or say scheduled according to, this file. That is, trains not in this file in a particular day will not be scheduled that day.      
+        3. The stops querying API: https://kyfw.12306.cn/otn/czxx/queryByTrainNo?train_no={trainNo}&from_station_telecode={fromStation}&to_station_telecode={toStation}&depart_date={departDate}
+    For potential passengers to check all stops between any two stations of a line, this API is indispensable. All parameter names are aptly-named, which naturally leads us to replace strings in braces to the respective values for a particular query, like, one from fromStation, VAP for instance, to toStation, say SYT, on departDate, 2016-01-31 for example, by the trainNo 24000000D10R hence. Yeh, you may have noticed that data I use are all aforementioned. 
+    The first two are fetched for the sake of the third, and of cause the fourth. To traverse all possible stops we firstly scan the staion_name list to get each line's Chinese names of two end-points (departure/from_station and destination/to_station); and secondly map the Chinese station names to those telecodes by harnessing the station_name file; and lastly download the JSON files via the above API with the corresponding train number and date. 
+        4. https://kyfw.12306.cn/otn/lcxxcx/query?purpose_codes={purposeCodes}&queryDate={queryDate}&from_station={fromStation}&to_station={toStation}
+        Since arguments here are kind of unaptly-named, you may don't know what the purpose_codes implies, so as for the from_station and to_station. The so-called purpose_codes has two instances: ADULT and 0X00 (student). And we should distinguish the from_station and to_station here from the from_station_telecode and to_station_telecode in the stops quering API. The former are stations the passengers leave from and leave for while the latter betoken the starting station and the terminal station of the trian.
+        Now that end-points of all train lines and all stops for each in between are available, this API can tell us all information of any single ticket, for example ticket price, the amount of tickets left et al. (all these are parsed in detail and in depth in the parsing section). All we need depends on this API. 
+    So far the relationships between these four URLs become quite understandable. 
+    Secondly, we need to draft the updating strategy. Using the above mechanism to fetch as more tickets information as possible can trigger anti-crawler issues on the server side given that too frequent requests will be made inevitably. 
+
+1. Design the remote requesting strategy
+    Our goals: 1) Dump all stable ticket information into our own server. 2) Caculate all those changes which can be forecasted using the prepared algorithms. 3) Fetch as less as possible from the official site.    
+    So far as I know, the train_list may even be dynamic, hourly, and definitely will be updated daily. Honestly speaking, I don't get to the guts of this matter, I don't know what has been changed with such a small time window, but without any doubt this list should be crawled daily at the least. _Further reserch is needed on this topic_. Next for the station_name I suppose it "nerver" changes.     
+    As the big boss said, this part can be passed since we can refresh the local data daily.
+
+2.	locale and variable-width encoding   
+    	Encoding is only a problem before swiching to Python3.
+   
+# Parsing   
+0. Many attributes in the ticket file are ambiguous and indescriptively-named   
+    In this part I'll detail two files we get through the APIs.
+    When it comes to the stops file, it's not that complex.
+<script src="https://gist.github.com/eduOS/6c1b06377c68e5d35fdd.js"></script>
+
+"arrive_time":"13:21",
+"station_name":"上海虹桥",
+"start_time":"13:21",
+"stopover_time":"----",
+"station_no":"10",
+"isEnabled":true,
+"messages":[],
+"validateMessages":{}
+"arrive_time":"13:21",
+"station_name":"上海虹桥",
+"start_time":"13:21",
+"stopover_time":"----",
+"station_no":"10",
+"isEnabled":true,
+"messages":[],
+"validateMessages":{}
+
+<script src="https://gist.github.com/3ff8811f66a507a559e8.js"></script>
+<script src="https://gist.github.com/3ffdcd869b4a159b2d36.js"></script>
+ 
+    Write [a scrit](clearcompare.py) to clear up the ticket file.
+   
+# Extracting   
+1.	About half of lines in the text are off-topic, that is the queries are not about train and tickets   
+    	Filter out queries about bus and plane, and then filter in all those ones which contain train information, to clean the content.   
+   
+2.	To match all parameters a pretty large ordered collection of regexes should be built, and satisfying all trivial possibilities seems unnecessary, troublesome, time-consuming and boring.   
+    	Change three-level model to a two-level one: primary regexes and arguments combined by primaries.   
+    	Extract parameters in a more effective and clearer way   
+			Five parameters at large: time, departure location and destination, service type and ticket type or train type, can be got from each query which makes sense.    
+   
+3.	Match ends: no stable mark to match   
+    	First use regex extract the two bags of words which contains the destination and departure location separately  
+    	Using Jieba to segmentalize the sentence rather than iterate all possible n-grams   
+    	Unsolved: customize Jieba for more precise location matching   
+   
+4.	At times location names and others may conflict in regex matching   
+Draw a clear line between location matching and others.    
+Facilitate the matching using Chinese segmentation.    
+Only those segments which exist in the train_list file are verified as locations (stations).    
+   
+5.	regex management   
+    	Gather almost all regexes in a file as a class   
+    	Mark their scopes as global or local for latter use   
+    	Unsolved: Use property decorator to better manage them   
+   
+6.	Time standardization   
+    	Open source solutions   
+    	To some extent, the open source Java module can solve the problem already   
+   
+7.	Lunar queries   
+    	Unsolved: absolute date and time   
+    	Unsolved: relative date and time   
+    	TODO: customize/extend the open source Java module   
+   
+# Others   
+0.	Java environment: noticed that there are more relevant modules and tools written in Java   
+    	Installed Oracle JDK 8   
+       
+Due to all kinds of reasons, forgivable or not, many are ignored or omitted.    
