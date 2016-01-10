@@ -1,0 +1,23 @@
+---
+layout: email
+title: the first on-fly revision request to Dr. Yu
+tags: thesis, report
+---
+
+Hello, dear Dr. Yu,
+
+The attached doc is the latest version of my thesis framework/draft. I decided to resume the paper process seriously in Chinese from this week and will contribute to it on again and off again, most probably weekly and to be the best daily.
+
+Please give me some tips and suggestions for the draft. It will be under continuously development and the timestamp for this version has been marked, therefor after you reply this letter with a revised version I'll compare my then newly written lines with your suggestions, and then make my own decisions on where the paper should be going on.
+
+Thanks for your help and supervision.
+
+As an aside, my internship at the startup company goes very well and they are willing to offer me a position after my graduation. But I have asked about the salary. It's very important, isn't it? In the next half year, I'll be involved in the work of the Knowledge Database (KD for short) development covering the creation of the KD, design of the query strategies and the creation of the interface for third parties. I cannot detail the job further for the issue of security. Anyway I think all we are doing has is done by forerunners like Xiao Du and others, thus I think it's absolutely not a state-of-the-art technology and hence rocket science anymore. I'm exited to be professional. 
+
+Sincerely,
+Lerner
+
+
+...........................     
+Welcome proofreading help and language suggestions. Tons of thanks in advance.
+
