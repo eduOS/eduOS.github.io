@@ -1,0 +1,12 @@
+---
+layout: diary
+title: What I can get for my thesis from RDF
+tags: RDF, semantic
+---
+
+
+A graph in this [page](http://linkeddatatools.com/semantic-modeling) compared rational database with no-SQL, or other data models.
+
+...........................     
+Welcome proofreading help and language suggestions. Tons of thanks in advance.
+
