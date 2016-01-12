@@ -45,7 +45,7 @@ Paradoxically, a UnicodeDecodeError may happen when _encoding_. The cause of it 
 Unlike a similar case with UnicodeEncodeError, such a failure cannot be always avoided. This is because the str result of encode() must be a legal coding-specific sequence. However, a more flexible treatment of the unexpected str argument type might first validate the str argument by decoding it, then return it unmodified if the validation was successful. As of Python2.5, this is not implemented.
 ```
 
-Note that the range of ASCII is 0-127, indicating the eighth bit is always 0. 
+Note that the range of ASCII is -128-127.
 Then `a.encode('utf-8')` equles `a.decode('ascii').encode('utf-8')`.
 This line `sys.setdefaultencoding('utf8')` make the above to be `a.decode('utf-8').decode(utf-8)`. Unlike ASCII, UTF8 can recognize Chinese in perspective. 
 
