@@ -1,0 +1,26 @@
+---
+layout: log
+title: keep some useful tips
+tags: tip, NLP
+---
+
+This line can convert non-utf8 characters automatically to utf8 in Vim. 
+set encoding=utf-8 fileencodings=ucs-bom,utf-8,cp936
+also for encoding
+this command `locale` can show me the encoding settings in Linux 
+PEP8 convention: https://github.com/nvie/vim-flake8.git
+python class and methods
+https://julien.danjou.info/blog/2013/guide-python-static-class-abstract-methods
+changing case with regular expression: http://vim.wikia.com/wiki/Changing_case_with_regular_expressions
+Json viewer: http://jsonviewer.stack.hu/
+Sort according to length `:%s/.*/\=printf("%03d", len(submatch(0)))."|".submatch(0)/ |sor n|`
+最淡的墨水也胜过最强的记忆
+dataversity
+http://answers.semanticweb.com/questions
+
+TODO: Python class, git svn, encoding
+
+
+...........................     
+Welcome proofreading help and language suggestions. Tons of thanks in advance.
+
