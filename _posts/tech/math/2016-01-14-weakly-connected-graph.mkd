@@ -1,0 +1,19 @@
+---
+layout: post
+title: The difference between weakly and strongly connected digraph
+tags: graph, NLP
+---
+
+The concept of "strongly connected" and "weakly connected" graphs are defined for directed graphs.
+
+    A digraph is strongly connected if every vertex is reachable from every other following the directions of the arcs. I.e., for every pair of distinct vertices uu and vv there exists a directed path from uu to vv.
+
+    A digraph is weakly connected if when considering it as an undirected graph it is connected. I.e., for every pair of distinct vertices uu and vv there exists an undirected path (potentially running opposite the direction on an edge) from uu to vv.
+
+In both cases, it requires that the undirected graph be connected, however strongly connected requires a stronger condition. You also have that if a digraph is strongly connected, it is also weakly connected.
+
+In your example, it is not a directed graph and so ought not get the label of "strongly" or "weakly" connected, but it is an example of a connected graph. As soon as you make your example into a directed graph however, regardless of orientation on the edges, it will be weakly connected (and possibly strongly connected based on choices made).
+
+...........................     
+Welcome proofreading help and language suggestions. Tons of thanks in advance.
+
