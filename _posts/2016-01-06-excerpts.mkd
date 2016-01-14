@@ -17,7 +17,8 @@ Sort according to length `:%s/.*/\=printf("%03d", len(submatch(0)))."|".submatch
 最淡的墨水也胜过最强的记忆
 dataversity
 http://answers.semanticweb.com/questions
-
+http://www.www2015.it/documents/proceedings/forms/proceedings.htm
+http://www.aifb.kit.edu/web/Ver%C3%B6ffentlichungen/en
 TODO: Python class, git svn, encoding
 
 
